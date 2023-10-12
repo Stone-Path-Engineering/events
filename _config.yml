@@ -18,18 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bailey Steinfadt
+title: Events
 description: >- # this means to ignore newlines until "baseurl:"
-  Bailey Steinfadt's personal website
+  Stone Path Engineering Events
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://baileysteinfadt.com" # the base hostname & protocol for your site, e.g. http://example.com
-header_pages: 
-  - pages/crochet.md
-  - posts.html
-  - index.md
-twitter_username: baileysteinfadt
-github_username:  baileysage
-linkedin_username: baileysteinfadt
+url: "https://events.stonepathengineering.com" # the base hostname & protocol for your site, e.g. http://example.com
+# header_pages: 
+#   - pages/crochet.md
+#   - posts.html
+#   - index.md
+
 
 # Build settings
 theme: minima
