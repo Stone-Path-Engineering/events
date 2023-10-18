@@ -7,7 +7,7 @@ title: Home
 
 ## Hardware Happy Hour
 
-October 26th, 2023 – 4:30-6:30 PM
+November 7th, 2023 – 4:30-6:30 PM
 
 Maple Studios, 1207 Maple Street, West Des Moines
 
