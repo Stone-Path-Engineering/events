@@ -23,6 +23,8 @@ Join us at our first Hardware Hangout, where you can meet and connect with fello
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
 
+![Icon](assets/images/icon_hardware_hangout.png){:height="250px" width="250px"}
+
 ### Who Should Come?
 
 - Firmware developers
@@ -41,8 +43,6 @@ Join us at our first Hardware Hangout, where you can meet and connect with fello
 - 6:30 - wrap up and take off
 
 ### Reserve Your Spot
-
-![Icon](assets/images/icon_hardware_hangout.png){:height="250px" width="250px"}
 
 Don't miss out. RSVP today and secure your spot for an evening of networking, inspiration, and fun.
 
