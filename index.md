@@ -5,7 +5,9 @@ title: Home
 
 ---
 
-## Inaugural Event: Hardware Hangout ![Icon](assets/images/icon_hardware_hangout.png){:height="250px" width="250px"}
+## Inaugural Event
+
+![Banner](assets/images/banner_hardware_hangout_2023_11.png)
 
 **Date:**  November 7th, 2023
 
@@ -14,7 +16,6 @@ title: Home
 **Place:** Maple Studios, 1207 Maple Street, West Des Moines
 
 Join us at our first Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
-
 
 ### Event Highlights
 
@@ -38,6 +39,8 @@ Event Agenda:
 - 6:30p wrap up and take off
 
 ### Reserve Your Spot
+
+![Icon](assets/images/icon_hardware_hangout.png){:height="250px" width="250px"}
 
 Don't miss out. RSVP today and secure your spot for an evening of networking, inspiration, and fun.
 
