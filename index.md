@@ -11,7 +11,7 @@ title: Home
 
 **Date:**  November 7th, 2023
 
-**Time:**  4:30-6:30 PM
+**Time:**  4:30 PM - 6:30 PM
 
 **Place:** Maple Studios, 1207 Maple Street, West Des Moines
 
@@ -31,12 +31,14 @@ Join us at our first Hardware Hangout, where you can meet and connect with fello
 - Product designers
 - Supporters of the industry
 - Those looking to work in or hire people in the industry
-Event Agenda:
-- 4:30 arrive, park, grab a drink
-- 5p event kick-off and short welcome
+
+### Event Agenda
+
+- 4:30 - arrive, park, grab a drink
+- 5:00 - event kick-off and short welcome
   - Optional tours of Maple Studios
   - Share projects and mingle
-- 6:30p wrap up and take off
+- 6:30 - wrap up and take off
 
 ### Reserve Your Spot
 
