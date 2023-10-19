@@ -5,20 +5,41 @@ title: Home
 
 ---
 
-## Hardware Happy Hour
+## Inaugural Event: Hardware Hangout ![Icon](assets/images/icon_hardware_hangout.png){:height="250px" width="250px"}
 
-November 7th, 2023 – 4:30-6:30 PM
+**Date:**  November 7th, 2023
 
-Maple Studios, 1207 Maple Street, West Des Moines
+**Time:**  4:30-6:30 PM
 
-Hardware Happy Hour is an informal way to socialize, share projects and ideas, and talk about the world of electronics. Whether your company is building a new thing to go on the internet, you work as a firmware developer or electrical engineer, you’re an enthusiastic hobbyist, or are merely curious about those things and the people doing them, we’d like to meet you!
+**Place:** Maple Studios, 1207 Maple Street, West Des Moines
 
-- Tour of Maple Studios
+Join us at our first Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-- Short welcome presentation
 
-- Mingle and share projects
-  – If you’d like, bring a project to share with others. Not in a show-and-tell sort of way, just to spark conversations with those around you.
+### Event Highlights
+
+- **Explore Maple Studios:** Take a guided tour of the state-of-the-art Maple Studios, a hub for innovation in the tech world.
+- **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
+- **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
+
+### Who Should Come?
+
+- Firmware developers
+- Electronics and electrical engineers
+- Electronics and robotics hobbyists
+- Product designers
+- Supporters of the industry
+- Those looking to work in or hire people in the industry
+Event Agenda:
+- 4:30 arrive, park, grab a drink
+- 5p event kick-off and short welcome
+  - Optional tours of Maple Studios
+  - Share projects and mingle
+- 6:30p wrap up and take off
+
+### Reserve Your Spot
+
+Don't miss out. RSVP today and secure your spot for an evening of networking, inspiration, and fun.
 
 <script>
 (function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd0bbHJrXMiAlRyxZxyc2yGbD_2B_2FUZCW8IVgc_2FaDfh72UU.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
