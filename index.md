@@ -58,6 +58,6 @@ Many thanks to our sponsors!
 ![DISTek Logo](assets/images/DISTek_Logo.png){:width="250px"}
 [DISTek Integration, Inc.](https://distek.com/)
 
-
+<br /><br />
 ![Maple Studios Logo](assets/images/maple_studios_logo.png){:width="250px"}
 [Maple Studios](https://www.maplestudios.com/)
