@@ -53,10 +53,10 @@ Don't miss out. RSVP today and secure your spot for an evening of networking, in
 
 Many thanks to our sponsors!
 
-![DISTek Logo](assets/images/DISTek_Logo.png){:height="250px" width="250px"}
+![DISTek Logo](assets/images/DISTek_Logo.png){:width="250px"}
 [DISTek Integration, Inc.](https://distek.com/)
 
 
-![Maple Studios Logo](assets/images/maple_studios_logo.png){:height="250px" width="250px"}
+![Maple Studios Logo](assets/images/maple_studios_logo.png){:width="250px"}
 DISTek Integration, Inc.
 [Maple Studios](https://www.maplestudios.com/)
