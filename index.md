@@ -36,7 +36,7 @@ Join us at our first Hardware Hangout, where you can meet and connect with fello
 
 ### Event Agenda
 
-- 4:30 - arrive, park, grab a drink
+- 4:30 - arrive, park, grab refreshments
 - 5:00 - event kick-off and short welcome
   - Optional tours of Maple Studios
   - Share projects and mingle
@@ -48,3 +48,15 @@ Don't miss out. RSVP today and secure your spot for an evening of networking, in
 
 <script>
 (function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd0bbHJrXMiAlRyxZxyc2yGbD_2B_2FUZCW8IVgc_2FaDfh72UU.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
+
+### Sponsors
+
+Many thanks to our sponsors!
+
+![DISTek Logo](assets/images/DISTek_Logo.png){:height="250px" width="250px"}
+[DISTek Integration, Inc.](https://distek.com/)
+
+
+![Maple Studios Logo](assets/images/maple_studios_logo.png){:height="250px" width="250px"}
+DISTek Integration, Inc.
+[Maple Studios](https://www.maplestudios.com/)
