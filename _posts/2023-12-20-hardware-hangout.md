@@ -2,23 +2,27 @@
 
 layout: post
 title: Hardware Hangout - January 2024
-date: 2023-01-30 22:30:00 -0600
+date: 2023-12-20 00:30:00 -0600
 categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
 
 ---
 
-**Date:**  January 30th, 2024
+**Date:**  February 29th, 2024
 
 **Time:**  4:30 PM - 6:30 PM
 
 **Place:** Maple Studios, 1207 Maple Street, West Des Moines
 
 Join us at the first Hardware Hangout of the year, where you can meet and connect with fellow enthusiasts and professionals in the industry.
+
+The odd date made us think about all of the odd things that calendars and clocks throw at an embedded system. So that's the topic for our first Tech Talk! We're collecting  If you have stories to share, pitfalls to point out, or some tips and tricks to trade, sign up to be on the panel of speakers! 
+
 <!--more-->
+
 ### Event Highlights
 
-- **Explore Maple Studios:** Take a guided tour of the state-of-the-art Maple Studios, a hub for innovation in the tech world.
+- **Technical Talk:** Learn and share about dealing with time on embedded systems.
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
 
@@ -36,9 +40,8 @@ Join us at the first Hardware Hangout of the year, where you can meet and connec
 ### Event Agenda
 
 - 4:30 - arrive, park, grab refreshments
-- 5:00 - event kick-off and short welcome
-  - Optional tours of Maple Studios
-  - Share projects and mingle
+- 5:00 - Tech Talk: Time Oddities
+- 5:30 - Share projects and mingle
 - 6:30 - wrap up and take off
 
 ### Reserve Your Spot
