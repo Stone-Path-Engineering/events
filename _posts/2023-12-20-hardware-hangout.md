@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 
 Join us at the first Hardware Hangout of the year, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-The odd date made us think about all of the odd things that calendars and clocks throw at an embedded system. So that's the topic for our first Tech Talk! We're collecting  If you have stories to share, pitfalls to point out, or some tips and tricks to trade, sign up to be on the panel of speakers! 
+The odd date made us think about all of the odd things that calendars and clocks throw at an embedded system. So that's the topic for our first Tech Talk! If you have stories to share, pitfalls to point out, or some tips and tricks to trade, sign up to be on the panel of speakers! We'll reach out to you before February 15th to confirm. 
 
 <!--more-->
 
