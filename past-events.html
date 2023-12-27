@@ -1,0 +1,12 @@
+---
+layout: default
+title: Past Events
+---
+
+<h1>Past Events </h1>
+
+  {% for post in site.categories["past"] %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  {% endfor %}
+

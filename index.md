@@ -7,17 +7,20 @@ title: Home
 
 ## Upcoming Event
 
-### **To be announced soon!**
+<a name="{{ next | slugize }}"></a>
+{% for post in site.categories["next"] %}
+  <article class="archive-item">
+    <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
 
 ## Past Events
 
-{% for tag in site.tags %}
-  {% if tag[0] == "past" %}
-    {% for post in tag[1] %}
-      <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-      </li>
-    {% endfor %}
-  {% endif %}
+<h3 class="category-head">{{ past }}</h3>
+<a name="{{ past | slugize }}"></a>
+{% for post in site.categories["past"] %}
+  <article class="archive-item">
+    <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+  </article>
 {% endfor %}

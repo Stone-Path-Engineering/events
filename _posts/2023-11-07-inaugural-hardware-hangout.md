@@ -3,12 +3,12 @@
 layout: post
 title: Inaugural Hardware Hangout
 date: 2023-11-07 22:30:00 -0600
-categories: [event, hardware_hangout]
-tags: [past]
+categories: [event, hardware_hangout, past]
+excerpt_separator: <!--more-->
 
 ---
 
-![Banner](assets/images/banner_hardware_hangout_2023_11.png)
+![Banner](/assets/images/banner_hardware_hangout_2023_11.png)
 
 **Date:**  November 7th, 2023
 
@@ -17,14 +17,14 @@ tags: [past]
 **Place:** Maple Studios, 1207 Maple Street, West Des Moines
 
 Join us at our first Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
-
+<!--more-->
 ### Event Highlights
 
 - **Explore Maple Studios:** Take a guided tour of the state-of-the-art Maple Studios, a hub for innovation in the tech world.
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
 
-![Icon](assets/images/icon_hardware_hangout.png){:height="250px" width="250px"}
+![Icon](/assets/images/icon_hardware_hangout.png){:height="250px" width="250px"}
 
 ### Who Should Come?
 
@@ -53,9 +53,9 @@ Event has passed, but look for our next event to be announced soon!
 
 Many thanks to our sponsors!
 
-![DISTek Logo](assets/images/DISTek_Logo.png){:width="250px"}
+![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
 [DISTek Integration, Inc.](https://distek.com/)
 
 <br /><br />
-![Maple Studios Logo](assets/images/maple_studios_logo.png){:width="250px"}
+![Maple Studios Logo](/assets/images/maple_studios_logo.png){:width="250px"}
 [Maple Studios](https://www.maplestudios.com/)
