@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Hardware Hangout - January 2024
+title: Hardware Hangout - February 2024
 date: 2023-12-20 00:30:00 -0600
 categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
