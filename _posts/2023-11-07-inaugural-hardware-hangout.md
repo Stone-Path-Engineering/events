@@ -5,6 +5,7 @@ title: Inaugural Hardware Hangout
 date: 2023-11-07 22:30:00 -0600
 categories: [event, hardware_hangout, past]
 excerpt_separator: <!--more-->
+permalink: hh-nov-2023
 
 ---
 
