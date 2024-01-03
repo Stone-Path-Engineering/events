@@ -33,10 +33,12 @@ Registration below.
 
 ### Who Should Come?
 
+- Embedded software developers
 - Firmware developers
 - Electronics and electrical engineers
 - Electronics and robotics hobbyists
 - Product designers
+- Automation engineers and techs
 - Supporters of the industry
 - Those looking to work in or hire people in the industry
 
