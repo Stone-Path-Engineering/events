@@ -16,9 +16,14 @@ title: Home
   
   --- 
   
-  <a href="{{ site.baseurl }}{{ post.url }}">Learn more and register...</h4>
+  <a href="{{ site.baseurl }}{{ post.url }}">Learn more and register...</a>
 
 {% endfor %}
+
+< br /> 
+< br /> 
+< br /> 
+< br /> 
 
 ## Past Events
 
