@@ -9,6 +9,8 @@ permalink: /hh-feb-2024
 
 ---
 
+![Banner](/assets/images/banner_hardware_hangout_2024_02.png)
+
 **Date:**  February 29th, 2024
 
 **Time:**  4:30 PM - 6:30 PM
