@@ -17,7 +17,9 @@ permalink: /hh-feb-2024
 
 Join us at the first Hardware Hangout of the year, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-The odd date made us think about all of the odd things that calendars and clocks throw at an embedded system. So that's the topic for our first Tech Talk! If you have stories to share, pitfalls to point out, or some tips and tricks to trade, sign up to be on the panel of speakers! We'll reach out to you before February 15th to confirm. 
+The odd date made us think about all of the odd things that calendars and clocks throw at an embedded system. So that's the topic for our first Tech Talk! If you have stories to share, pitfalls to point out, or tips and tricks to trade, sign up to be on the panel of speakers when you register! 
+
+Registration below.
 
 <!--more-->
 
@@ -40,14 +42,14 @@ The odd date made us think about all of the odd things that calendars and clocks
 
 ### Event Agenda
 
-- 4:30 - arrive, park, grab refreshments
+- 4:30 - Arrive, park, grab refreshments
 - 5:00 - Tech Talk: Time Oddities
 - 5:30 - Share projects and mingle
-- 6:30 - wrap up and take off
+- 6:30 - Wrap up and take off
 
 ### Reserve Your Spot
 
-Event Registration coming soon!
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUM0YzNVVDT1dHM1JWNDhTSkFTUU1WREQxVi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 <br /><br />
 
