@@ -13,6 +13,11 @@ title: Home
     <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     {{ post.excerpt }}
   </article>
+  
+  --- 
+  
+  <a href="{{ site.baseurl }}{{ post.url }}">Learn more and register...</h4>
+
 {% endfor %}
 
 ## Past Events
