@@ -14,16 +14,15 @@ title: Home
     {{ post.excerpt }}
   </article>
   
-  --- 
-  
+  <br />
   <a href="{{ site.baseurl }}{{ post.url }}">Learn more and register...</a>
 
 {% endfor %}
 
-< br /> 
-< br /> 
-< br /> 
-< br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 
 ## Past Events
 
