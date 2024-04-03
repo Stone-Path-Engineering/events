@@ -18,13 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stone Path Embedded Events
+title: Iowans of Things
 description: >- # this means to ignore newlines until "baseurl:"
-  Stone Path Engineering Public Events
+  Presented by Stone Path Engineering and DISTek Integration
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://events.stonepathengineering.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://iowansofthings.com" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages: 
   - past-events.html
+  - about.md
   - index.md
 
 
