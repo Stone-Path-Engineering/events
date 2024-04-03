@@ -19,6 +19,6 @@
 1. Add Reserve your spot section. (Copy embedded link from Microsoft Forms)
 1. `<br /><br />` spacing forces extra vertical space between elements.
 1. Add sponsors section. New sponsors' logos go in the assets/images directory.
-1. Optional: If you have ruby installed, test with `bundle exec jekyll serve` (Use `bundle install`to set up environment for building.) Your page will be viewable at `http://127.0.0.1:4000/`.
 1. Commit changes and push to github. (workflow is the same on web or computer)
 1. Create a pull request with your changes and assign a reviewer.
+1. You should be able to see the deploy preview from netlify at the link on the PR.
