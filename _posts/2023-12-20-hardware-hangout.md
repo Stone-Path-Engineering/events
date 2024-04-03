@@ -3,7 +3,7 @@
 layout: post
 title: Hardware Hangout - February 2024
 date: 2024-01-03 00:30:00 -0600
-categories: [event, hardware_hangout, next]
+categories: [event, hardware_hangout, past]
 excerpt_separator: <!--more-->
 permalink: /hh-feb-2024
 
@@ -19,7 +19,7 @@ permalink: /hh-feb-2024
 
 Join us at the first Hardware Hangout of the year, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-The odd date made us think about all of the odd things that calendars and clocks throw at an embedded system. So that's the topic for our first Tech Talk! And we're hoping you'll be a part of it. If you have stories to share, pitfalls to point out, or tips and tricks to trade, sign up to be on the panel of speakers when you register! 
+The odd date made us think about all of the odd things that calendars and clocks throw at an embedded system. So that's the topic for our first Tech Talk! And we're hoping you'll be a part of it. If you have stories to share, pitfalls to point out, or tips and tricks to trade, sign up to be on the panel of speakers when you register!
 
 Registration below.
 
