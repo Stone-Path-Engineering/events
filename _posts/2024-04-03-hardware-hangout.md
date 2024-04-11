@@ -9,7 +9,7 @@ permalink: /hh-may-2024
 
 ---
 
-<!-- TODO: create banner -->
+![Banner](/assets/images/banner_hardware_hangout_2024_05.png)
 
 **Date:**  May 9th, 2024
 
@@ -17,9 +17,15 @@ permalink: /hh-may-2024
 
 **Place:** Hart Smart Products, 9850 Douglas Ave Suite 200, Urbandale, IA 50322
 
-<!-- TODO: summary text -->
+Join us for the third Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-Registration below. 
+Two new things this time around! First, location! Hart Smart Products is hosting our first "field trip" edition of Hardware Hangout. Second, a new name for this group! Welome to the Iowans of Things!
+
+![Logo](/assets/images/iowans_of_things.png){:height="250px" width="250px"}
+
+Inspired by our excellent host venue, the Tech Talk topic for this event is prototyping! And we're hoping you'll be a part of it. If you have stories to share, pitfalls to point out, or tips and tricks to trade, sign up to be on the panel of speakers when you register!
+
+Registration below.
 
 <!--more-->  
 <!--the above "comment" tells the main page where to put the break-->
