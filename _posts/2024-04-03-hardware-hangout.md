@@ -19,7 +19,7 @@ permalink: /hh-may-2024
 
 Join us for the third Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-Two new things this time around! First, location! Hart Smart Products is hosting our first "field trip" edition of Hardware Hangout. Second, a new name for this group! Welome to the Iowans of Things!
+Two new things this time around! First, location! Hart Smart Products is hosting our first "field trip" edition of Hardware Hangout. Second, a new name for this group! Welcome to the Iowans of Things!
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
