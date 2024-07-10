@@ -1,23 +1,23 @@
 ---
 
 layout: post
-title: Hardware Hangout - May 2024
+title: Hardware Hangout - September 2024
 date: 2024-01-03 00:30:00 -0600
-categories: [event, hardware_hangout, past]
+categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
-permalink: /hh-may-2024
+permalink: /hh-sept-2024
 
 ---
 
-![Banner](/assets/images/banner_hardware_hangout_2024_05.png)
+![Banner](/assets/images/banner_hardware_hangout_2024_09.png)
 
-**Date:**  May 9th, 2024
+**Date:**  September 26th, 2024
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** Hart Smart Products, 9850 Douglas Ave Suite 200, Urbandale, IA 50322
+**Place:** Ag Startup Engine...
 
-Join us for the third Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
+Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
 Two new things this time around! First, location! Hart Smart Products is hosting our first "field trip" edition of Hardware Hangout. Second, a new name for this group! Welcome to the Iowans of Things!
 
@@ -58,7 +58,7 @@ Registration below.
 
 ### Reserve Your Spot
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUNFFONFVEUldLR1lLMlNIS0RZOURVMzZVUC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUNzc2S0M0UlVROVJBNDNMMlk1TVAyWVdORC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 <br /><br />
 

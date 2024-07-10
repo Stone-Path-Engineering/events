@@ -8,7 +8,8 @@
 1. Copy front matter to new file
   a. Update the category tag to "next" and update the `title:` and `permalink:` fields.
   a. The date: field should be today's date. It's the date the post was published, not the date of the event.
-1. Add link to banner image for the event. New image goes in assets/images
+1. Create a banner image for the event. New image goes in assets/images
+1. Add link to banner image for the event. 
 1. Add date, time, location information
 1. Add summary paragraph.
 1. Ensure the <!--more--> tag gets added. This tells the website where to clip the post for the main page.
