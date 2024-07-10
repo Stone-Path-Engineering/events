@@ -15,7 +15,7 @@ permalink: /hh-sept-2024
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** Ag Startup Engine...
+**Place:** Ag Startup Engine, 2500 North Loop Drive, Suite 7546; Ames, IA 50010
 
 Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
@@ -73,9 +73,6 @@ Many thanks to our sponsors!
 ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
 
-<br /><br />
-![Hart Smart Logo](/assets/images/HartSmart-Products.png){:width="250px"}
-[Hart Smart Products](https://hartsmartproducts.com/)
 
 <br /><br />
 ![Dream Forge Logo](/assets/images/DF_Logo.png){:width="250px"}
