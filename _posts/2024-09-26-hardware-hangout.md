@@ -1,23 +1,23 @@
 ---
 
 layout: post
-title: Hardware Hangout - May 2024
-date: 2024-01-03 00:30:00 -0600
-categories: [event, hardware_hangout, past]
+title: Hardware Hangout - September 2024
+date: 2024-07-11 00:30:00 -0600
+categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
-permalink: /hh-may-2024
+permalink: /hh-september-2024
 
 ---
 
 ![Banner](/assets/images/banner_hardware_hangout_2024_05.png)
 
-**Date:**  May 9th, 2024
+**Date:**  September 16th, 2024
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** Hart Smart Products, 9850 Douglas Ave Suite 200, Urbandale, IA 50322
+**Place:** Ag Startup Engine; 2500 North Loop Drive, Suite 7546; Ames, IA 50010
 
-Join us for the third Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
+Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
 Two new things this time around! First, location! Hart Smart Products is hosting our first "field trip" edition of Hardware Hangout. Second, a new name for this group! Welcome to the Iowans of Things!
 
