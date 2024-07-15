@@ -11,7 +11,7 @@ permalink: /hh-september-2024
 
 ![Banner](/assets/images/banner_hardware_hangout_2024_05.png)
 
-**Date:**  September 16th, 2024
+**Date:**  September 19th, 2024
 
 **Time:**  4:30 PM - 6:30 PM
 
