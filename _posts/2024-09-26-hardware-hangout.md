@@ -9,7 +9,7 @@ permalink: /hh-september-2024
 
 ---
 
-![Banner]!(iowans_of_things_banner.png)
+![Banner](iowans_of_things_banner.png)
 
 **Date:**  September 19th, 2024
 
