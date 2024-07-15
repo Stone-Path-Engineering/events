@@ -9,21 +9,21 @@ permalink: /hh-september-2024
 
 ---
 
-![Banner](/assets/images/banner_hardware_hangout_2024_05.png)
+![Banner]!(iowans_of_things_banner.png)
 
 **Date:**  September 19th, 2024
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** Ag Startup Engine; 2500 North Loop Drive, Suite 7546; Ames, IA 50010
+**Place:** ISU Research Park, 1805 Collaboration Pl, Ames, IA, 50010
 
 Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames at the Ag Startup Engine building near the ISU campus. 
+Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames ISU Research Park near campus. 
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
-This Hardware Hangout's theme is all about careers! Since our host location is located in the ISU Research Park, we will also be inviting engineering students to join us. Please join us to share more about the opportunities your company offers, tips and tricks you've learned in your career, or to share your stories about how you got to where you are in your role. 
+This Hardware Hangout's theme is all about careers! Since our host location is located in the ISU Research Park, we will also be inviting engineering students to accompany our Iowans of Things community. Please join us to share more about the opportunities your company offers, tips and tricks you've learned in your career, or to share your stories about how you got to where you are in your role. 
 
 Registration below.
 
@@ -58,7 +58,7 @@ Registration below.
 
 ### Reserve Your Spot
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUNFFONFVEUldLR1lLMlNIS0RZOURVMzZVUC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUNzc2S0M0UlVROVJBNDNMMlk1TVAyWVdORC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 <br /><br />
 
