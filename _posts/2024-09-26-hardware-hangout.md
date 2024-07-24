@@ -1,29 +1,29 @@
 ---
 
 layout: post
-title: Hardware Hangout - May 2024
-date: 2024-01-03 00:30:00 -0600
-categories: [event, hardware_hangout, past]
+title: Hardware Hangout - September 2024
+date: 2024-07-11 00:30:00 -0600
+categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
-permalink: /hh-may-2024
+permalink: /hh-september-2024
 
 ---
 
-![Banner](/assets/images/banner_hardware_hangout_2024_05.png)
+![Banner](assets/images/banner_hardware_hangout_2024_09.png)
 
-**Date:**  May 9th, 2024
+**Date:**  September 19th, 2024
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** Hart Smart Products, 9850 Douglas Ave Suite 200, Urbandale, IA 50322
+**Place:** ISU Research Park, 1805 Collaboration Pl, Ames, IA, 50010
 
-Join us for the third Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
+Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-Two new things this time around! First, location! Hart Smart Products is hosting our first "field trip" edition of Hardware Hangout. Second, a new name for this group! Welcome to the Iowans of Things!
+Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames ISU Research Park near campus. 
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
-Inspired by our excellent host venue, the Tech Talk topic for this event is prototyping! And we're hoping you'll be a part of it. If you have stories to share, pitfalls to point out, or tips and tricks to trade, sign up to be on the panel of speakers when you register!
+This Hardware Hangout's theme is all about careers! Since our host location is located in the ISU Research Park, we will also be inviting engineering students to accompany our Iowans of Things community. Please join us to share more about the opportunities your company offers, tips and tricks you've learned in your career, or to share your stories about how you got to where you are in your role. 
 
 Registration below.
 
@@ -32,7 +32,7 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** Learn and share about prototyping embedded systems.
+- **Technical Talk:** Learn and share about different career paths. 
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
 
@@ -52,13 +52,13 @@ Registration below.
 ### Event Agenda
 
 - 4:30 - Arrive, park, grab refreshments
-- 5:00 - Tech Talk: Prototyping
+- 5:00 - Tech Talk: Careers
 - 5:30 - Share projects and mingle
 - 6:30 - Wrap up and take off
 
 ### Reserve Your Spot
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUNFFONFVEUldLR1lLMlNIS0RZOURVMzZVUC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUNzc2S0M0UlVROVJBNDNMMlk1TVAyWVdORC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 <br /><br />
 
