@@ -19,7 +19,7 @@ permalink: /hh-september-2024
 
 Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames ISU Research Park near campus.
+Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames at the ISU Research Park Core Facility near the Iowa State campus.
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
