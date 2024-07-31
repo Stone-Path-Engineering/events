@@ -19,11 +19,11 @@ permalink: /hh-september-2024
 
 Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames ISU Research Park near campus. 
+Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames ISU Research Park near campus.
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
-This Hardware Hangout's theme is all about careers! Since our host location is located in the ISU Research Park, we will also be inviting engineering students to accompany our Iowans of Things community. Please join us to share more about the opportunities your company offers, tips and tricks you've learned in your career, or to share your stories about how you got to where you are in your role. 
+This Hardware Hangout's theme is all about careers! Since our host location is located in the ISU Research Park, we will also be inviting engineering students to accompany our Iowans of Things community. Please join us to share more about the opportunities your company offers, tips and tricks you've learned in your career, or to share your stories about how you got to where you are in your role.
 
 Registration below.
 
@@ -32,7 +32,7 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** Learn and share about different career paths. 
+- **Technical Talk:** Learn and share about different career paths.
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
 
@@ -72,5 +72,3 @@ Many thanks to our sponsors!
 <br /><br />
 ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
-
-

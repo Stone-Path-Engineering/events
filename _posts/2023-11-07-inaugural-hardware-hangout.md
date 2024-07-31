@@ -46,7 +46,7 @@ Join us at our first Hardware Hangout, where you can meet and connect with fello
 
 ### Reserve Your Spot
 
-Event has passed, but look for our next event to be announced soon! 
+Event has passed, but look for our next event to be announced soon!
 
 <br /><br />
 
