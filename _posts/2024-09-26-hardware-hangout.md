@@ -73,10 +73,4 @@ Many thanks to our sponsors!
 ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
 
-<br /><br />
-![Hart Smart Logo](/assets/images/HartSmart-Products.png){:width="250px"}
-[Hart Smart Products](https://hartsmartproducts.com/)
 
-<br /><br />
-![Dream Forge Logo](/assets/images/DF_Logo.png){:width="250px"}
-[Dream Forge, LLC](https://dreamforge.us/)
