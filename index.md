@@ -20,10 +20,10 @@ title: Home
 <br />
 {% endfor %}
 
-<br /> 
-<br /> 
-<br /> 
-<br /> 
+<br />
+<br />
+<br />
+<br />
 
 ## Past Events
 
