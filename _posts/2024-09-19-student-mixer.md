@@ -5,7 +5,7 @@ title: Student Mixer - September 2024
 date: 2024-07-11 00:00:00 -0600
 categories: [event, student_mixer, next]
 excerpt_separator: <!--more-->
-permalink: /hh-september-2024
+permalink: /isu-student-mixer-2024
 
 ---
 
