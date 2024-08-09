@@ -53,7 +53,7 @@ Registration below.
 
 ### Reserve Your Spot
 
-<iframe width="640px" height="800px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUM0YzNVVDT1dHM1JWNDhTSkFTUU1WREQxVi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+Event has passed, but look for our next event to be announced soon!
 
 <br /><br />
 
