@@ -69,7 +69,7 @@ Many thanks to our sponsors!
 ![ASE Logo](/assets/images/ASE_logo.png){:width="250px"}
 [Ag Startup Engine](https://www.agstartupengine.com/)
 
-<br /><br />
+<br />
 
 ### Showcase your company
 

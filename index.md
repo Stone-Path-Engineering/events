@@ -17,6 +17,7 @@ title: Home
   <br />
   <a href="{{ site.baseurl }}{{ post.url }}">Learn more and register...</a>
 
+<br /><br />
 {% endfor %}
 
 <br /> 
