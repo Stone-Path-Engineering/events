@@ -65,6 +65,10 @@ Many thanks to our sponsors!
 ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
 
+<br /><br />
+![ASE Logo](/assets/images/ASE_logo.png){:width="250px"}
+[Ag Startup Engine](https://www.agstartupengine.com/)
+
 ### Showcase your company
 
 If you'd like to showcase your company to a group of energetic new faces from Iowa State and the Iowans of Things community, please sign up here.
