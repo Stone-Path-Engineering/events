@@ -17,7 +17,7 @@ permalink: /isu-student-mixer-2024
 
 **Place:** ISU Research Park, 1805 Collaboration Pl, Ames, IA, 50010
 
-Iowans of Things is hosting a Student Mixer in conjunction with our regular [Hardware Hangout](/_posts/2024-09-26-hardware-hangout.md) event, where you can meet and connect with fellow enthusiasts and professionals in Iowa's technology industry. Join us in Ames at the ISU Research Park Core Facility near the Iowa State campus.
+Iowans of Things is hosting a Student Mixer in conjunction with our regular [Hardware Hangout](/hh-september-2024) event, where you can meet and connect with fellow enthusiasts and professionals in Iowa's technology industry. Join us in Ames at the ISU Research Park Core Facility near the Iowa State campus.
 
 At the Student Mixer, you'll have time to interact informally with reprentatives of Iowa tech companies of all sizes ahead of the career fair. Many will have hands-on demonstrations of their products to show. At the Hardware Hangout, a wider array of employees, business owners, and technology enthusiasts will gather for networking and collaborative learning. Speakers will share their experiences and advice for early careers in tech.
 
