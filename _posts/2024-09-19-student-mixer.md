@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Hardware Hangout - September 2024
+title: Student Mixer - September 2024
 date: 2024-07-11 00:00:00 -0600
 categories: [event, student_mixer, next]
 excerpt_separator: <!--more-->
@@ -17,11 +17,11 @@ permalink: /hh-september-2024
 
 **Place:** ISU Research Park, 1805 Collaboration Pl, Ames, IA, 50010
 
-Iowans of Things is hosting a Student Mixer in conjunction with our regular [Hardware Hangout] event, where you can meet and connect with fellow enthusiasts and professionals in Iowa's technology industry. Join us in Ames at the ISU Research Park Core Facility near the Iowa State campus.
+Iowans of Things is hosting a Student Mixer in conjunction with our regular [Hardware Hangout](/_posts/2024-09-26-hardware-hangout.md) event, where you can meet and connect with fellow enthusiasts and professionals in Iowa's technology industry. Join us in Ames at the ISU Research Park Core Facility near the Iowa State campus.
+
+At the Student Mixer, you'll have time to interact informally with reprentatives of Iowa tech companies of all sizes ahead of the career fair. Many will have hands-on demonstrations of their products to show. At the Hardware Hangout, a wider array of employees, business owners, and technology enthusiasts will gather for networking and collaborative learning. Speakers will share their experiences and advice for early careers in tech.
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
-
-// TODO: Add more information about what students can expect
 
 Registration below.
 
@@ -42,7 +42,7 @@ Registration below.
 
 ### Event Agenda
 
-- 4:00 - Arrive and grab refreshments
+- 4:00 - Student Mixer with local tech companies
 - 4:30 - Hardware Hangout begins
 - 5:00 - Tech Talk: Careers
 - 5:30 - Mingle and meet a variety of professionals
@@ -54,7 +54,7 @@ Registration below.
 
 <br /><br />
 
-## Sponsors
+## Sponsors and Participating Companies
 
 Many thanks to our sponsors!
 
@@ -64,3 +64,9 @@ Many thanks to our sponsors!
 <br /><br />
 ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
+
+### Showcase your company
+
+If you'd like to showcase your company to a group of energetic new faces from Iowa State and the Iowans of Things community, please sign up here.
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVURVRBTlhVUDRYT1YwTTQ4WTdPVFdSUlhPUy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

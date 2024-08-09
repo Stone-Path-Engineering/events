@@ -72,3 +72,9 @@ Many thanks to our sponsors!
 <br /><br />
 ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
+
+## Student Mixer
+
+We are hosting a Student Mixer immediately before the Hardware Hangout. If you'd like to showcase your company to a group of energetic new faces from Iowa State and the Iowans of Things community, please sign up here.
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVURVRBTlhVUDRYT1YwTTQ4WTdPVFdSUlhPUy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
