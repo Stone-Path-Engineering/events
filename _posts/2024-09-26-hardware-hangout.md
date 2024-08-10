@@ -78,6 +78,9 @@ Many thanks to our sponsors!
 [Ag Startup Engine](https://www.agstartupengine.com/)
 
 <br />
+![Startup Factory Logo](/assets/images/SUF_ISU_TM.png){:width="250px"}
+[ISU Startup Factory](https://www.isupjcenter.org/programs/isu-startup-factory/)
+<br /><br />
 
 ## Student Mixer
 
