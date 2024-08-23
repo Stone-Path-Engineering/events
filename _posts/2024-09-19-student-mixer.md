@@ -72,6 +72,10 @@ Many thanks to our sponsors!
 <br />
 ![Startup Factory Logo](/assets/images/SUF_ISU_TM.png){:width="250px"}
 [ISU Startup Factory](https://www.isupjcenter.org/programs/isu-startup-factory/)
+
+<br />
+![Iowa SBDC](/assets/images/sbdc_iowa_logo.png){:width="250px"}
+[Iowa SBDC](http://www.iowasbdc.org/)
 <br /><br />
 
 ### Showcase your company
