@@ -3,27 +3,27 @@
 layout: post
 title: Hardware Hangout - September 2024
 date: 2024-07-11 00:30:00 -0600
-categories: [event, hardware_hangout, past]
+categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
-permalink: /hh-september-2024
+permalink: /hh-november-2024
 
 ---
 
 ![Banner](assets/images/banner_hardware_hangout_2024_09.png)
 
-**Date:**  September 19th, 2024
+**Date:**  November 14th, 2024
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** ISU Research Park, 1805 Collaboration Pl, Ames, IA, 50010
+**Place:** Maple Studios: 1207 Maple St, West Des Moines, IA 50265
 
-Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
+Join us for the fifth and final Hardware Hangout of 2024, where you can meet and connect with fellow enthusiasts and professionals in the industry!
 
-Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames at the ISU Research Park Core Facility near the Iowa State campus.
+Iowans of Things will be back in West Des Moines at Maple Studios for the next Hardware Hangout. 
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
-This Hardware Hangout's theme is all about careers! Since our host location is located in the ISU Research Park, we will also be inviting engineering students to accompany our Iowans of Things community. Please join us to share more about the opportunities your company offers, tips and tricks you've learned in your career, or to share your stories about how you got to where you are in your role.
+More details to come. 
 
 Registration below.
 
@@ -52,7 +52,7 @@ Registration below.
 ### Event Agenda
 
 - 4:30 - Arrive, park, grab refreshments
-- 5:00 - Tech Talk: Careers
+- 5:00 - Tech Talk:
 - 5:30 - Share projects and mingle
 - 6:30 - Wrap up and take off
 
@@ -84,8 +84,4 @@ Many thanks to our sponsors!
 [Iowa SBDC](http://www.iowasbdc.org/)
 <br /><br />
 
-## Student Mixer
 
-We are hosting a Student Mixer immediately before the Hardware Hangout. If you'd like to showcase your company to a group of energetic new faces from Iowa State and the Iowans of Things community, please sign up here.
-
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVURVRBTlhVUDRYT1YwTTQ4WTdPVFdSUlhPUy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
