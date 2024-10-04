@@ -19,7 +19,7 @@ permalink: /hh-november-2024
 
 Join us for the fifth and final Hardware Hangout of 2024, where you can meet and connect with fellow enthusiasts and professionals in the industry!
 
-Iowans of Things will be back in West Des Moines at Maple Studios for the next Hardware Hangout. 
+Iowans of Things will be back in West Des Moines at Maple Studios for the next Hardware Hangout. We had a great year and had fun oragnizing the past Hardware Hangouts. We got a lot accomplished! We want to take some time to reflect on the past year as well as brainstorm fun ideas for the future! 
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
@@ -32,7 +32,8 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** Learn and share about different career paths.
+- **Yearly Recap:** Discuss and recap the Hardware Hangout events from the past year and the goals/mission for the Iowans of Things group.
+- **Event Planning:** Brainstorm and share ideas for future Iowans of Things events. 
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
 
@@ -52,8 +53,8 @@ Registration below.
 ### Event Agenda
 
 - 4:30 - Arrive, park, grab refreshments
-- 5:00 - Tech Talk:
-- 5:30 - Share projects and mingle
+- 5:00 - Yearly Recap and Event Planning
+- 5:45 - Share projects and mingle
 - 6:30 - Wrap up and take off
 
 ### Reserve Your Spot
@@ -73,15 +74,7 @@ Many thanks to our sponsors!
 ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
 
-![ASE Logo](/assets/images/ASE_logo.png){:width="250px"}
-[Ag Startup Engine](https://www.agstartupengine.com/)
-
-![Startup Factory Logo](/assets/images/SUF_ISU_TM.png){:width="250px"}
-[ISU Startup Factory](https://www.isupjcenter.org/programs/isu-startup-factory/)
-
 <br /><br />
-![Iowa SBDC](/assets/images/sbdc_iowa_logo.png){:width="250px"}
-[Iowa SBDC](http://www.iowasbdc.org/)
-<br /><br />
-
+![Maple Studios Logo](/assets/images/maple_studios_logo.png){:width="250px"}
+[Maple Studios](https://www.maplestudios.com/)
 
