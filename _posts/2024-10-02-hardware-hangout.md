@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Hardware Hangout - September 2024
+title: Hardware Hangout - November 2024
 date: 2024-07-11 00:30:00 -0600
 categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
@@ -9,7 +9,7 @@ permalink: /hh-november-2024
 
 ---
 
-![Banner](assets/images/banner_hardware_hangout_2024_09.png)
+![Banner](assets/images/banner_hardware_hangout_2024_11.png)
 
 **Date:**  November 14th, 2024
 
@@ -19,11 +19,11 @@ permalink: /hh-november-2024
 
 Join us for the fifth and final Hardware Hangout of 2024, where you can meet and connect with fellow enthusiasts and professionals in the industry!
 
-Iowans of Things will be back in West Des Moines at Maple Studios for the next Hardware Hangout. We had a great year and had fun oragnizing the past Hardware Hangouts. We got a lot accomplished! We want to take some time to reflect on the past year as well as brainstorm fun ideas for the future! 
+Iowans of Things will be back in West Des Moines at Maple Studios for the next Hardware Hangout. We had a great year and had fun oragnizing the past Hardware Hangouts. We got a lot accomplished! We want to take some time to reflect on the past year as well as brainstorm fun ideas for the future!
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
-More details to come. 
+More details to come.
 
 Registration below.
 
@@ -77,4 +77,3 @@ Many thanks to our sponsors!
 <br /><br />
 ![Maple Studios Logo](/assets/images/maple_studios_logo.png){:width="250px"}
 [Maple Studios](https://www.maplestudios.com/)
-

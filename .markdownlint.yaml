@@ -13,6 +13,12 @@ MD004:
 # MD013/line-length : Line length : https://github.com/DavidAnson/markdownlint/blob/v0.34.0/doc/md013.md
 MD013: false
 
+# MD009/trailing-spaces
+MD009: false
+
+# MD012/no-multiple-blanks: Multiple consecutive blank lines 
+MD012: false
+
 # MD029/ol-prefix : Ordered list item prefix : https://github.com/DavidAnson/markdownlint/blob/v0.34.0/doc/md029.md
 MD029:
   # List style
