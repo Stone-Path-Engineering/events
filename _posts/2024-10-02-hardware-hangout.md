@@ -23,8 +23,6 @@ Iowans of Things will be back in West Des Moines at Maple Studios for the next H
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
-More details to come.
-
 Registration below.
 
 <!--more-->  
@@ -77,3 +75,7 @@ Many thanks to our sponsors!
 <br /><br />
 ![Maple Studios Logo](/assets/images/maple_studios_logo.png){:width="250px"}
 [Maple Studios](https://www.maplestudios.com/)
+
+<br /><br />
+![Sukup Logo](/assets/images/Sukup_Innovations.webp){:width="250px"}
+[Sukup Innovations](https://info.sukup.com/sukup-innovations)
