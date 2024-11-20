@@ -19,9 +19,7 @@ permalink: /ff-january-2025
 
 Firmware Fellowship aims to be the group to discuss best practices around embedded firmware. It will be very similar to WebGeeks and user groups for specific languages where someone presents a topic or hosts a workshop. Topics will be more specific to firmware development than the Hardware Hangout topics. 
 
-**When you register, let us know whether meeting in person or online works better for you!**
-
-This first Firmware Fellowship, the topic is Continuous Integration (CI) for bare-metal MCU projects. Bailey Steinfadt will share her experiences with using Git, Docker, and online CI tools to improve the development process for such projects. She will walk through her [demo project](https://github.com/Stone-Path-Engineering/demo-pic18) for building and releasing artifacts. 
+This first Firmware Fellowship, the topic is Continuous Integration (CI) for bare-metal MCU projects. Bailey Steinfadt will share her experiences with using Git, Docker, and online CI tools to improve the development process for such projects. She will walk through her [demo project](https://github.com/Stone-Path-Engineering/demo-pic18) for building and releasing artifacts through GitHub Actions. 
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
@@ -44,7 +42,10 @@ Registration below.
 
 ### Reserve Your Spot
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUOEJCNzNTVFFST1ZEMzE0RTdRS1BDRFJCOS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+**When you register, let us know whether meeting in person or online works better for you!**
+
+
+<iframe width="640px" height="1000px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUOEJCNzNTVFFST1ZEMzE0RTdRS1BDRFJCOS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 <br /><br />
 
