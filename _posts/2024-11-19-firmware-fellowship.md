@@ -17,9 +17,9 @@ permalink: /ff-january-2025
 
 **Place:** TBD - See below.
 
-Firmware Fellowship aims to be the group to discuss best practices around embedded firmware. It will be very similar to WebGeeks and user groups for specific languages where someone presents a topic or hosts a workshop. Topics will be more specific to firmware development than the Hardware Hangout topics. 
+Firmware Fellowship is a new event hosted by Iowans of Things. The goal for these events is to discuss best practices around embedded firmware. It will be very similar to WebGeeks and user groups for specific languages where someone presents a topic or hosts a workshop. Topics will be more specific to firmware development than the Hardware Hangout topics. 
 
-This first Firmware Fellowship, the topic is Continuous Integration (CI) for bare-metal MCU projects. Bailey Steinfadt will share her experiences with using Git, Docker, and online CI tools to improve the development process for such projects. She will walk through her [demo project](https://github.com/Stone-Path-Engineering/demo-pic18) for building and releasing artifacts through GitHub Actions. 
+The topic for the first Firmware Fellowship is Continuous Integration (CI) for bare-metal MCU projects. Bailey Steinfadt will share her experiences with using Git, Docker, and online CI tools to improve the development process for such projects. She will walk through her [demo project](https://github.com/Stone-Path-Engineering/demo-pic18) for building and releasing artifacts through GitHub Actions. 
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
