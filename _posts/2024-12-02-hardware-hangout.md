@@ -9,7 +9,7 @@ permalink: /hh-february-2025
 
 ---
 
-![Banner](assets/images/banner_hardware_hangout_2024_11.png)
+<!-- TODO: replace banner ![Banner](assets/images/banner_hardware_hangout_2024_11.png) -->
 
 **Date:**  February 27th, 2025
 
@@ -17,7 +17,7 @@ permalink: /hh-february-2025
 
 **Place:** TBA
 
-**TODO**
+<!-- **TODO:** Write a description -->
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
