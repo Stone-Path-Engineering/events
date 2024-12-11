@@ -9,7 +9,7 @@ permalink: /hh-november-2024
 
 ---
 
-![Banner] (assets/images/banner_hardware_hangout_2025_02.png)
+![Banner](../assets/images/banner_hardware_hangout_2025_02.png)
 
 **Date:**  February 27th, 2025
 
