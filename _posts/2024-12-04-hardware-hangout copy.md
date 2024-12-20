@@ -71,4 +71,6 @@ Many thanks to our sponsors!
 ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
 
-
+<br /><br />
+![Summit Logo](../assets/images/SUMMIT_LOGO_2024_black.png)
+[Summit Products] (https://www.summit-products.com/)
