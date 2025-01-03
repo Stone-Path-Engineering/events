@@ -50,13 +50,20 @@ Registration below.
 ### Event Agenda
 
 - 4:30 - Arrive, park, grab refreshments
-- 5:00 - Yearly Recap and Event Planning
+- 5:00 - Tech Talk & Open Discussion: non-consumer IoT
 - 5:45 - Share projects and mingle
 - 6:30 - Wrap up and take off
 
 ### Reserve Your Spot
 
-Look out for the link to RSVP - Coming Soon!
+RSVP in the link below!
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: "48052701",
+    formId: "23662deb-5f77-4542-a229-3fc55267deac"
+  });
+</script>
 
 <br /><br />
 
@@ -72,5 +79,5 @@ Many thanks to our sponsors!
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
 
 <br /><br />
-![Summit Logo](../assets/images/SUMMIT_LOGO_2024_black.png)
-[Summit Products] (https://www.summit-products.com/)
+![Summit Logo](../assets/images/SUMMIT_LOGO_2024_black.png){:width="250px"}
+[Summit Products](https://www.summit-products.com/)
