@@ -51,6 +51,7 @@ Registration below.
 
 - 4:30 - Arrive, park, grab refreshments
 - 5:00 - Tech Talk & Open Discussion: non-consumer IoT
+- 5:30 - Plant Tour 
 - 5:45 - Share projects and mingle
 - 6:30 - Wrap up and take off
 
