@@ -19,7 +19,7 @@ permalink: /hh-november-2024
 
 Help us kick off the first Hardware Hangout of 2025 by joining us at Summit Products in Altoona, IA.
 
-The theme for this Hardware Hangout event is all things non-consumer IoT. Topics will include building and factory automation and the control systems that go into it.
+The theme for this Hardware Hangout event is all things non-consumer IoT. Topics will include building and factory automation and the control systems that go into it. Stick around to get a tour of the Summit Products factory hosted by our gracious sponsor!
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
