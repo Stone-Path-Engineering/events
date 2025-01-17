@@ -5,7 +5,7 @@ title: Hardware Hangout - February 2025
 date: 2024-07-11 00:30:00 -0600
 categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
-permalink: /hh-november-2024
+permalink: /hh-february-2025
 
 ---
 
