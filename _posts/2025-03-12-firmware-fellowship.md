@@ -21,6 +21,8 @@ Firmware Fellowship is a new event hosted by Iowans of Things. The goal for thes
 
 The topic for this Firmware Fellowship is toolchains for bare-metal MCU projects. There sure are a lot of them, and they all have their quirks and features. Come discuss your favorites, gripe about how many versions of Eclipse you have installed, and share your tips and recommendations with others!
 
+Grab some lunch from Maxie's and join us! Unfortunately, meals can't be covered by Iowans of Things, so plan accordingly. 
+
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
 Registration below.
