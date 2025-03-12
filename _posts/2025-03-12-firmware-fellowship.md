@@ -15,7 +15,7 @@ permalink: /ff-april-2025
 
 **Time:**  11:00 AM - 12:30 PM
 
-**Place:** Maxie's Supper Club
+**Place:** Maxie's Supper Club, 1311 Grand Ave, West Des Moines, IA 50265
 
 Firmware Fellowship is a new event hosted by Iowans of Things. The goal for these events is to discuss best practices around embedded firmware. It will be very similar to WebGeeks and user groups for specific languages where someone presents a topic or hosts a workshop. Topics will be more specific to firmware development than the Hardware Hangout topics. 
 
