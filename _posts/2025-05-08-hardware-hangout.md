@@ -9,7 +9,7 @@ permalink: /hh-may-2025
 
 ---
 
-![Banner](../assets/images/banner_hardware_hangout_2025_02.png)
+![Banner](../assets/images/banner_hardware_hangout_2025_05.png)
 
 **Date:**  May 8th, 2025
 
@@ -19,7 +19,7 @@ permalink: /hh-may-2025
 
 Join us for the upcoming Hardware Hangout back at Maple Studios in May!
 
-The theme for this Hardware Hangout event is Open Source and IP. Matthew Nuzum is a self-proclaimed "geeky lawyer" who has volunteered to chat with us about managing legal and technology risks. Come ready to learn about the legalities regarding tech!
+The theme for this Hardware Hangout event is Open Source and IP. Matthew Nuzum is a self-proclaimed "geeky lawyer" who has volunteered to chat with us about managing legal and technology risks. Come ready to learn about the legal side of building tech!
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
@@ -54,9 +54,13 @@ Registration below.
 - 5:45 - Share projects and mingle
 - 6:30 - Wrap up and take off
 
-## Parking Information 
+## Parking 
 
+Off-street parking is available in the Maple Studios parking lots, shown below. Additional parking can be found at the city lot at 14th and Maple. Please do not park in the grass. 
 
+Use the door nearest the overhead doors to enter the building.
+
+![Parking Image](../assets/images/maple_studios_parking.png)
 
 ### Reserve Your Spot
 
