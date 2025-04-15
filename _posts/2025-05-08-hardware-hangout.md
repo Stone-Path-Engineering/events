@@ -54,14 +54,6 @@ Registration below.
 - 5:45 - Share projects and mingle
 - 6:30 - Wrap up and take off
 
-## Parking 
-
-Off-street parking is available in the Maple Studios parking lots, shown below. Additional parking can be found at the city lot at 14th and Maple. Please do not park in the grass. 
-
-Use the door nearest the overhead doors to enter the building.
-
-![Parking Image](../assets/images/maple_studios_parking.png)
-
 ### Reserve Your Spot
 
 RSVP in the link below!
@@ -90,3 +82,11 @@ Many thanks to our sponsors!
 <br /><br />
 ![Surge Logo](../assets/images/surge-tm-logo-black-on-trans.png){:width="250px"}
 [Surge Law](https://surge.law/)
+
+## Parking 
+
+Off-street parking is available in the Maple Studios parking lots, shown below. Additional parking can be found at the city lot at 14th and Maple. Please do not park in the grass. 
+
+Use the door nearest the overhead doors to enter the building.
+
+![Parking Image](../assets/images/maple_studios_parking.png)
