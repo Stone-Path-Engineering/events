@@ -25,6 +25,15 @@ title: Home
 <br />
 <br />
 
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: "48052701",
+    formId: "8d1eced9-d6fc-4e06-95f4-f76f736ed257",
+    region: "na1"
+  });
+</script>
+
 ## Past Events
 
 <h3 class="category-head">{{ past }}</h3>
