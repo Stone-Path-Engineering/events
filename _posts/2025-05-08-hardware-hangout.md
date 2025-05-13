@@ -3,7 +3,7 @@
 layout: post
 title: Hardware Hangout - May 2025
 date: 2024-04-10 00:30:00 -0600
-categories: [event, hardware_hangout, next]
+categories: [event, hardware_hangout, past]
 excerpt_separator: <!--more-->
 permalink: /hh-may-2025
 
