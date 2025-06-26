@@ -15,9 +15,9 @@ permalink: /hh-sept-2025
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** TBD
+**Place:** Student Innovation Center (SIC) - 606 Bissell Rd, Ames, IA 50011
 
-Join us for the upcoming Hardware Hangout at Iowa State University in Ames, IA!
+Join us for the upcoming Hardware Hangout at the Iowa State University Student Innovation Center (SIC) in Ames, IA!
 
 Similar to last year, the theme for this Hardware Hangout event will be informational about careers in embedded systems. Along with our awesome Iowans of Things members, ISU students are also welcome to attend. Come prepared to chat about your career, your aspirations, or your journey in the embedded space. 
 
