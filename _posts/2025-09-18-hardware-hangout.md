@@ -9,7 +9,7 @@ permalink: /hh-sept-2025
 
 ---
 
-![Banner](../assets/images/banner_hardware_hangout_2025_05.png)
+![Banner] (Stone-Path-Engineering/events/assets/images/sept_2025_iowans_of_things_banner.png)
 
 **Date:**  September 18th, 2025
 
