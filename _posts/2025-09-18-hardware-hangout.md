@@ -9,7 +9,7 @@ permalink: /hh-sept-2025
 
 ---
 
-![Banner] (../assets/images/banner_hardware_hangout_2025_09.png)
+![Banner] (/assets/images/banner_hardware_hangout_2025_09.png)
 
 **Date:**  September 18th, 2025
 
