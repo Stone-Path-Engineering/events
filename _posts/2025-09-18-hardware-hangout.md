@@ -88,8 +88,7 @@ Many thanks to our sponsors!
 
 ## Parking 
 
-Off-street parking is available in the Maple Studios parking lots, shown below. Additional parking can be found at the city lot at 14th and Maple. Please do not park in the grass. 
+Parking is available in the highlighted area in the picture below on Bissell Rd. The Student Innovation Center (SIC) where the event is held, is located a couple of blocks down from the parking lot, (see red pin in picture below). 
 
-Use the door nearest the overhead doors to enter the building.
 
-![Parking Image](../assets/images/maple_studios_parking.png)
+![Parking Image](../assets/images/ISU_Parking.png)
