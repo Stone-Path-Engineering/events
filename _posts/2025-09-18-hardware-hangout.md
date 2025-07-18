@@ -88,7 +88,9 @@ Many thanks to our sponsors!
 
 ## Parking 
 
-Parking is available in the highlighted area in the picture below on Bissell Rd. The Student Innovation Center (SIC) where the event is held, is located a couple of blocks down from the parking lot, (see red pin in picture below). 
+Metered parking is available in Lot 21, marked with the yellow rectangle. Two handicapped spaces are available north of Sweeney Hall, marked with the blue circle. For more information, see: https://www.parking.iastate.edu/visitor 
+
+The Student Innovation Center (SIC), where the event is held, is located a couple of blocks down from the parking lot, (see red pin in picture below). 
 
 
 ![Parking Image](../assets/images/ISU_Parking.png)
