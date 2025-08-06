@@ -5,7 +5,7 @@ title: Hardware Hangout - September 2025
 date: 2024-05-29 00:30:00 -0600
 categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
-permalink: /hh-sept-2025
+permalink: /hh-september-2025
 
 ---
 
@@ -85,7 +85,7 @@ Many thanks to our sponsors!
 
 ## Parking 
 
-Metered parking is available in Lot 21, marked with the yellow rectangle. Two handicapped spaces are available north of Sweeney Hall, marked with the blue circle. For more information, see: https://www.parking.iastate.edu/visitor 
+Metered parking is available in Lot 21, marked with the yellow rectangle. Two handicapped spaces are available north of Sweeney Hall, marked with the blue circle. For more information, see the [ISU Parking Page](https://www.parking.iastate.edu/visitor). 
 
 The Student Innovation Center (SIC), where the event is held, is located a couple of blocks down from the parking lot, (see red pin in picture below). 
 
