@@ -8,6 +8,7 @@ Iowans of Things is a community events website for hardware and embedded systems
 The website serves as the primary registration and information hub for these community events, featuring event announcements, speaker information, sponsor recognition, and registration forms. Events are hosted by Spark Embedded and DISTek Integration as presenting sponsors.
 
 ## Target Audience
+
 - Embedded software and firmware developers
 - Electronics and electrical engineers  
 - Robotics and electronics hobbyists
