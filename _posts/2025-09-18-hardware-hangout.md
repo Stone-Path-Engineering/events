@@ -79,8 +79,8 @@ Many thanks to our sponsors!
 [DISTek Integration, Inc.](https://distek.com/)
 
 <br /><br />
-![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
-[Stone Path Engineering, LLC](https://stonepathengineering.com/)
+![SE Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
+[Spark Embedded, LLC](https://sparkembedded.com/)
 
 
 ## Parking 

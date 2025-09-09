@@ -58,12 +58,12 @@ Benefits:
 - Opportunity to share what you do at the event
 - A thank you in the recap email with a chosen "call to action" to all attendees
 
-[Reach out to the team](mailto:events@stonepathengineering.com) with any questions or to sign up to sponsor the next event!
+[Reach out to the team](mailto:team@sparkembedded.com) with any questions or to sign up to sponsor the next event!
 
 ### Presenting Sponsors
 
 This tier is for companies who sponsor every Hardware Hangout and organize the efforts that are needed when creating these awesome events! The presenting sponsors are not exclusive, but do require an ongoing commitment above and beyond supplying a single event.
 
-Current Presenting Sponsors: Stone Path Engineering & DISTek Integration, Inc.
+Current Presenting Sponsors: Spark Embedded & DISTek Integration, Inc.
 
-[Reach out to the team](mailto:events@stonepathengineering.com) to discuss becoming a presenting sponsor!
+[Reach out to the team](mailto:team@sparkembedded.com) to discuss becoming a presenting sponsor!
