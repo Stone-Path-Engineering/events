@@ -20,7 +20,7 @@
 
 title: Iowans of Things
 description: >- # this means to ignore newlines until "baseurl:"
-  Presented by Stone Path Engineering and DISTek Integration
+  Presented by Spark Embedded and DISTek Integration
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iowansofthings.com" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages: 
