@@ -23,7 +23,7 @@ border-radius: 8px; will-change: transform;">
 
 ![William](/assets/images/WilliamHeadshots-2.jpg){:height="200px"}
 
-William has a Professional Science Master’s degree in Applied Physics from the University of Northern Iowa and has worked with DISTek since 2007, serving in a variety of roles over the years including test engineer, model-based system design (MBSD) engineer, and leader of multiple teams and programs.
+William has a Professional Science Master’s degree in Applied Physics from the University of Northern Iowa. Over a nearly two-decade career in engineering services, he has held a variety of roles including test engineer, model-based system design (MBSD) engineer, and leader of multiple teams and programs. He is now the Co-Founder and COO of Spark Embedded, a consultancy focused on collaborative engineering.
 
 As a newcomer to Des Moines, he has felt very welcomed into the technical community here and saw an opportunity to give back while further enriching it by facilitating the formation of an inclusive organization focused on a shared interest in the embedded domain.
 
