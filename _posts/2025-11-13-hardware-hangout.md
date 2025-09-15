@@ -15,7 +15,7 @@ permalink: /hh-november-2025
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** Elevator Co-Warehousing, 204 12th St, Des Moines, IA 50309
+**Place:** Elevator, 204 12th St, Des Moines, IA 50309
 
 Join us for the November Hardware Hangout! This networking event brings together embedded developers, electronics engineers, hobbyists, and industry supporters for technical discussions and community building.
 
@@ -71,6 +71,8 @@ RSVP in the link below!
 ## Sponsors
 
 Many thanks to our sponsors!
+![Elevator Logo](/assets/images/elevator_logo.png){:width="250px"}
+[Elevator](https://www.elevatorspaces.com/des-moines)
 
 ![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
 [DISTek Integration, Inc.](https://distek.com/)
