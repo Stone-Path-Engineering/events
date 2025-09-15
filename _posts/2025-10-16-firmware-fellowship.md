@@ -15,7 +15,7 @@ permalink: /ff-october-2025
 
 **Time:**  11:00 AM - 12:30 PM
 
-**Place:** TBD - See below.
+**Place:** The Walnut - 1417 Walnut St, Des Moines, IA 50309
 
 Join us for another Firmware Fellowship event! This technical workshop focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other.
 
