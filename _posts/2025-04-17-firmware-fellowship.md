@@ -2,7 +2,7 @@
 
 layout: post
 title: Firmware Fellowship - April 2025
-date: 2024-11-11 00:30:00 -0600
+date: 2025-04-17 00:30:00 -0600
 categories: [event, firmware_fellowship, past]
 excerpt_separator: <!--more-->
 permalink: /ff-april-2025

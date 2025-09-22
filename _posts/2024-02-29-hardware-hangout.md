@@ -2,7 +2,7 @@
 
 layout: post
 title: Hardware Hangout - February 2024
-date: 2024-01-03 00:30:00 -0600
+date: 2024-02-29 00:30:00 -0600
 categories: [event, hardware_hangout, past]
 excerpt_separator: <!--more-->
 permalink: /hh-feb-2024
