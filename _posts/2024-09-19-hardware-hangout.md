@@ -17,15 +17,13 @@ permalink: /hh-september-2024
 
 **Place:** ISU Research Park, 1805 Collaboration Pl, Ames, IA, 50010
 
-Join us for the fourth Hardware Hangout of 2025, where you can meet and connect with fellow enthusiasts and professionals in the industry.
+Join us for the fourth Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
 
-The topic for the November Hardware Hangout is After the Release. 
-
-Once you've made it through prototyping, development, manufacturing, and selling your product, kick back and celebrate your achievement! But not for too long because you're not done! A whole new set of decisions to make and challenges to overcome await you. Warehousing and shipping, returns and customer support, bug fixes, updates and new features. It's almost another whole job! 
-
-Share your stories, tips, and questions with the group! 
+Iowans of Things is hosting another "field trip" edition to the upcoming September Hardware Hangout. Join us in Ames at the ISU Research Park Core Facility near the Iowa State campus.
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
+
+This Hardware Hangout's theme is all about careers! Since our host location is located in the ISU Research Park, we will also be inviting engineering students to accompany our Iowans of Things community. Please join us to share more about the opportunities your company offers, tips and tricks you've learned in your career, or to share your stories about how you got to where you are in your role.
 
 Registration below.
 
@@ -34,7 +32,7 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** Learn and share about post-release activities.
+- **Technical Talk:** Learn and share about different career paths.
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
 

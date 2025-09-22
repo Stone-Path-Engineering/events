@@ -19,7 +19,11 @@ permalink: /hh-november-2025
 
 Join us for the November Hardware Hangout! This networking event brings together embedded developers, electronics engineers, hobbyists, and industry supporters for technical discussions and community building.
 
-The theme and technical presentation details for this Hardware Hangout will be announced soon. Stay tuned for updates on the specific topic and speaker information.
+The topic for the November Hardware Hangout is After the Release. 
+
+Once you've made it through prototyping, development, manufacturing, and selling your product, kick back and celebrate your achievement! But not for too long because you're not done! A whole new set of decisions to make and challenges to overcome await you. Warehousing and shipping, returns and customer support, bug fixes, updates and new features. It's almost another whole job! 
+
+Share your stories, tips, and questions with the group! 
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
@@ -30,7 +34,7 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** Topic and speaker to be announced
+- **Technical Talk:** After the Release
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don't worry, we won't make anyone perform a show-and-tell!
 
