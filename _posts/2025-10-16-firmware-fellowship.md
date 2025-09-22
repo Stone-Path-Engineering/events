@@ -19,7 +19,11 @@ permalink: /ff-october-2025
 
 Join us for another Firmware Fellowship event! This technical workshop focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other.
 
-The topic for this Firmware Fellowship will be announced soon. Stay tuned for updates on the specific technical focus and presenter details.
+This month's topic is Commanding the Command Line. 
+
+Vendor IDEs and PlatformIO have gotten many people through 100% of their firmware development, but the command line opens up a new category of super powers. We'll also have some useful info you can use even if you never plan on opening a terminal. 
+
+At Firmware Fellowship, we meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
@@ -38,7 +42,7 @@ Registration below.
 
 - 11:00 - Introductions and welcome
 - 11:10 - Technical presentation and discussion
-- 12:00 - Wrap up and networking
+- 12:00 - Wrap up and optional networking
 - 12:30 - Event conclusion
 
 ### Reserve Your Spot
