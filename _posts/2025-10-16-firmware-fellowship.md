@@ -43,9 +43,14 @@ Registration below.
 
 ### Reserve Your Spot
 
-**When you register, let us know whether meeting in person or online works better for you!**
-
-<iframe width="640px" height="1000px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUOEJCNzNTVFFST1ZEMzE0RTdRS1BDRFJCOS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: "48052701",
+    formId: "cf467cda-429f-4814-a3ed-625846499459",
+    region: "na1"
+  });
+</script>
 
 <br /><br />
 
