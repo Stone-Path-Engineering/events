@@ -2,7 +2,7 @@
 
 layout: post
 title: Hardware Hangout - November 2025
-date: 2025-10-01 00:30:00 -0600
+date: 2025-09-21 00:30:00 -0600
 categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
 permalink: /hh-november-2025
