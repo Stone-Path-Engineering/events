@@ -5,6 +5,16 @@ title: About
 
 ---
 
+## Iowans of Things Mission
+
+In support of Central Iowa’s embedded product development
+community:
+
+1. Enable industry professionals to share knowledge and
+experience across organizational boundaries.
+1. Support efforts to train, attract, and retain industry
+professionals to the region.
+1. Partner with the wider business community to advocate for a strong local embedded ecosystem.
 
 ## Hardware Hangout 
 
