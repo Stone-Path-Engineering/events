@@ -75,9 +75,11 @@ RSVP in the link below!
 ## Sponsors
 
 Many thanks to our sponsors!
+
 ![Elevator Logo](/assets/images/elevator_logo.png){:width="250px"}
 [Elevator](https://www.elevatorspaces.com/des-moines)
 
+<br /><br />
 ![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
 [DISTek Integration, Inc.](https://distek.com/)
 
