@@ -1,29 +1,27 @@
 ---
 
 layout: post
-title: Hardware Hangout - May 2024
-date: 2024-01-03 00:30:00 -0600
+title: Hardware Hangout - February 2025
+date: 2025-02-27 00:30:00 -0600
 categories: [event, hardware_hangout, past]
 excerpt_separator: <!--more-->
-permalink: /hh-may-2024
+permalink: /hh-february-2025
 
 ---
 
-![Banner](/assets/images/banner_hardware_hangout_2024_05.png)
+![Banner](../assets/images/banner_hardware_hangout_2025_02.png)
 
-**Date:**  May 9th, 2024
+**Date:**  February 27th, 2025
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** Hart Smart Products, 9850 Douglas Ave Suite 200, Urbandale, IA 50322
+**Place:** Summit Products: 6750 NE 41st Ave, Altoona, IA, 50009
 
-Join us for the third Hardware Hangout, where you can meet and connect with fellow enthusiasts and professionals in the industry.
+Help us kick off the first Hardware Hangout of 2025 by joining us at Summit Products in Altoona, IA.
 
-Two new things this time around! First, location! Hart Smart Products is hosting our first "field trip" edition of Hardware Hangout. Second, a new name for this group! Welcome to the Iowans of Things!
+The theme for this Hardware Hangout event is all things non-consumer IoT. Topics will include building and factory automation and the control systems that go into it. Stick around to get a tour of the Summit Products factory hosted by our gracious sponsor!
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
-
-Inspired by our excellent host venue, the Tech Talk topic for this event is prototyping! And we're hoping you'll be a part of it. If you have stories to share, pitfalls to point out, or tips and tricks to trade, sign up to be on the panel of speakers when you register!
 
 Registration below.
 
@@ -32,7 +30,7 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** Learn and share about prototyping embedded systems.
+- **Technical Talk:** Learn and share about non-consumer IoT topics.
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections.
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don’t worry, we won’t make anyone perform a show-and-tell!
 
@@ -52,13 +50,21 @@ Registration below.
 ### Event Agenda
 
 - 4:30 - Arrive, park, grab refreshments
-- 5:00 - Tech Talk: Prototyping
-- 5:30 - Share projects and mingle
+- 5:00 - Tech Talk & Open Discussion: non-consumer IoT
+- 5:30 - Plant Tour 
+- 5:45 - Share projects and mingle
 - 6:30 - Wrap up and take off
 
 ### Reserve Your Spot
 
-Event has passed, but look for our next event to be announced soon!
+RSVP in the link below!
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: "48052701",
+    formId: "23662deb-5f77-4542-a229-3fc55267deac"
+  });
+</script>
 
 <br /><br />
 
@@ -74,9 +80,5 @@ Many thanks to our sponsors!
 [Stone Path Engineering, LLC](https://stonepathengineering.com/)
 
 <br /><br />
-![Hart Smart Logo](/assets/images/HartSmart-Products.png){:width="250px"}
-[Hart Smart Products](https://hartsmartproducts.com/)
-
-<br /><br />
-![Dream Forge Logo](/assets/images/DF_Logo.png){:width="250px"}
-[Dream Forge, LLC](https://dreamforge.us/)
+![Summit Logo](../assets/images/SUMMIT_LOGO_2024_black.png){:width="250px"}
+[Summit Products](https://www.summit-products.com/)

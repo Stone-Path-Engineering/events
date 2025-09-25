@@ -1,27 +1,25 @@
 ---
 
 layout: post
-title: Firmware Fellowship - April 2025
-date: 2024-11-11 00:30:00 -0600
+title: Firmware Fellowship - January 2025
+date: 2025-01-22 00:30:00 -0600
 categories: [event, firmware_fellowship, past]
 excerpt_separator: <!--more-->
-permalink: /ff-april-2025
+permalink: /ff-january-2025
 
 ---
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
-**Date:**  April 17th, 2025
+**Date:**  January 22nd, 2025
 
 **Time:**  11:00 AM - 12:30 PM
 
-**Place:** Maxie's Supper Club, 1311 Grand Ave, West Des Moines, IA 50265
+**Place:** TBD - See below.
 
 Firmware Fellowship is a new event hosted by Iowans of Things. The goal for these events is to discuss best practices around embedded firmware. It will be very similar to WebGeeks and user groups for specific languages where someone presents a topic or hosts a workshop. Topics will be more specific to firmware development than the Hardware Hangout topics. 
 
-The topic for this Firmware Fellowship is toolchains for bare-metal MCU projects. There sure are a lot of them, and they all have their quirks and features. Come discuss your favorites, gripe about how many versions of Eclipse you have installed, and share your tips and recommendations with others!
-
-Grab some lunch from Maxie's and join us! Unfortunately, meals can't be covered by Iowans of Things, so plan accordingly. 
+The topic for the first Firmware Fellowship is Continuous Integration (CI) for bare-metal MCU projects. Bailey Steinfadt will share her experiences with using Git, Docker, and online CI tools to improve the development process for such projects. She will walk through her [demo project](https://github.com/Stone-Path-Engineering/demo-pic18) for building and releasing artifacts through GitHub Actions. 
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
@@ -44,14 +42,10 @@ Registration below.
 
 ### Reserve Your Spot
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
-<script>
-  hbspt.forms.create({
-    portalId: "48052701",
-    formId: "1be5d0a5-f61b-446f-9ff3-848fc73e9786",
-    region: "na1"
-  });
-</script>
+**When you register, let us know whether meeting in person or online works better for you!**
+
+
+<iframe width="640px" height="1000px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TC-pVBN1lUyrG48XT6bHMM1ikcqVEqBFvBT6xFFlvOVUOEJCNzNTVFFST1ZEMzE0RTdRS1BDRFJCOS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 <br /><br />
 

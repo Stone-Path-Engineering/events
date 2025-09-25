@@ -5,9 +5,10 @@ title: Home
 
 ---
 
-## Upcoming Event
+## Upcoming Events
 
 <a name="{{ next | slugize }}"></a>
+{% assign posts = site.posts | sort: 'date' %}
 {% for post in site.categories["next"] %}
   <article class="archive-item">
     <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
@@ -39,6 +40,7 @@ title: Home
 
 <h3 class="category-head">{{ past }}</h3>
 <a name="{{ past | slugize }}"></a>
+{% assign posts = site.posts | sort: 'date' | reverse %}
 {% for post in site.categories["past"] limit: 10 %}
   <article class="archive-item">
     <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>

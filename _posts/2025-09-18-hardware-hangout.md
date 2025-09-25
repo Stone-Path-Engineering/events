@@ -2,8 +2,8 @@
 
 layout: post
 title: Hardware Hangout - September 2025
-date: 2024-05-29 00:30:00 -0600
-categories: [event, hardware_hangout, next]
+date: 2025-09-18 00:30:00 -0600
+categories: [event, hardware_hangout, past]
 excerpt_separator: <!--more-->
 permalink: /hh-september-2025
 

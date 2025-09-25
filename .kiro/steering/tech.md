@@ -42,4 +42,3 @@ bundle exec jekyll build
 ## Third-Party Integrations
 
 - **HubSpot Forms**: Event registration and newsletter signup
-- **Microsoft Forms**: Former registration system for some past events

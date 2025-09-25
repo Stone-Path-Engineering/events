@@ -18,7 +18,7 @@
 ## Post Categories & Conventions
 
 - **Categories**: `[event, hardware_hangout|firmware_fellowship, next|past]`
-- **"next"**: Current upcoming event (only one should exist)
+- **"next"**: Current upcoming event (only one for each event type should exist)
 - **"past"**: Previous events for archive display
 - **Permalinks**: Use format `/hh-month-year` or `/ff-month-year`
 
