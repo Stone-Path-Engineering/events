@@ -3,7 +3,7 @@
 layout: post
 title: Firmware Fellowship - October 2025
 date: 2025-09-09 00:30:00 -0600
-categories: [event, firmware_fellowship, next]
+categories: [event, firmware_fellowship, past]
 excerpt_separator: <!--more-->
 permalink: /ff-october-2025
 
