@@ -41,9 +41,9 @@ Registration below.
 
 ### Event Agenda
 
-- 11:00 - Introductions and welcome
-- 11:10 - Technical presentation and discussion
-- 12:00 - Wrap up and optional networking
+- 11:00 - Arrive and Order
+- 11:15 - Technical presentation and/or discussion
+- 12:00 - Wrap up and pick next topic
 - 12:30 - Event conclusion
 
 ### Let Us Know You're Joining Us
