@@ -2,14 +2,14 @@
 
 layout: post
 title: Firmware Fellowship - Third Thursdays
-date: 2025-09-09 00:30:00 -0600
+date: 2025-11-20 00:30:00 -0600
 categories: [event, firmware_fellowship, next]
 excerpt_separator: <!--more-->
 permalink: /firmware-fellowship
 
 ---
 
-![Logo](/assets/images/iowans_of_things.png){:width="250px"}
+![Banner](/assets/images/firmware_fellowship_banner.png){:width="250px"}
 
 **Date:**  Monthly on Third Thursdays
 
