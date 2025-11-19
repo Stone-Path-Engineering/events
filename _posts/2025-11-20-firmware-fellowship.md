@@ -9,7 +9,7 @@ permalink: /firmware-fellowship
 
 ---
 
-![Banner](/assets/images/firmware_fellowship_banner.png){:width="250px"}
+![Banner](/assets/images/firmware_fellowship_banner.png)
 
 **Date:**  Monthly on Third Thursdays
 
