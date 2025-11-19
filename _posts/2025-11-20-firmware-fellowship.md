@@ -2,14 +2,14 @@
 
 layout: post
 title: Firmware Fellowship - Third Thursdays
-date: 2025-09-09 00:30:00 -0600
+date: 2025-11-19 00:30:00 -0600
 categories: [event, firmware_fellowship, next]
 excerpt_separator: <!--more-->
 permalink: /firmware-fellowship
 
 ---
 
-![Logo](/assets/images/iowans_of_things.png){:width="250px"}
+![Banner](/assets/images/firmware_fellowship_banner.png)
 
 **Date:**  Monthly on Third Thursdays
 
@@ -41,9 +41,9 @@ Registration below.
 
 ### Event Agenda
 
-- 11:00 - Introductions and welcome
-- 11:10 - Technical presentation and discussion
-- 12:00 - Wrap up and optional networking
+- 11:00 - Arrive and Order
+- 11:15 - Technical presentation and/or discussion
+- 12:00 - Wrap up and pick next topic
 - 12:30 - Event conclusion
 
 ### Let Us Know You're Joining Us
