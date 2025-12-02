@@ -21,7 +21,7 @@ permalink: /firmware-fellowship
 
 Join us for Firmware Fellowship on the third Thursday of every month! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other.
 
-November's topic is Observability and Field Support. We'll discuss the tools and techniques to knowing how your devices are performing once they have been sent to your customers. 
+December's topic is Supporting Non-technical Users. We'll discuss how we can best communicate with the non-developers we work with, including managers, the support team, and not least, the end users of our devices. 
 
 
 At Firmware Fellowship, we meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
