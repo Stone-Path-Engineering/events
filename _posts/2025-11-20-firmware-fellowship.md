@@ -2,14 +2,14 @@
 
 layout: post
 title: Firmware Fellowship - Third Thursdays
-date: 2025-09-09 00:30:00 -0600
+date: 2025-11-19 00:30:00 -0600
 categories: [event, firmware_fellowship, next]
 excerpt_separator: <!--more-->
 permalink: /firmware-fellowship
 
 ---
 
-![Logo](/assets/images/iowans_of_things.png){:width="250px"}
+![Banner](/assets/images/firmware_fellowship_banner.png)
 
 **Date:**  Monthly on Third Thursdays
 
@@ -21,7 +21,7 @@ permalink: /firmware-fellowship
 
 Join us for Firmware Fellowship on the third Thursday of every month! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other.
 
-November's topic is Observability and Field Support. We'll discuss the tools and techniques to knowing how your devices are performing once they have been sent to your customers. 
+December's topic is Supporting Non-technical Users. We'll discuss how we can best communicate with the non-developers we work with, including managers, the support team, and not least, the end users of our devices. 
 
 
 At Firmware Fellowship, we meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
@@ -41,9 +41,9 @@ Registration below.
 
 ### Event Agenda
 
-- 11:00 - Introductions and welcome
-- 11:10 - Technical presentation and discussion
-- 12:00 - Wrap up and optional networking
+- 11:00 - Arrive and Order
+- 11:15 - Technical presentation and/or discussion
+- 12:00 - Wrap up and pick next topic
 - 12:30 - Event conclusion
 
 ### Let Us Know You're Joining Us
