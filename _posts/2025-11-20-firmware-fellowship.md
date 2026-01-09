@@ -44,6 +44,10 @@ Registration below.
 - 12:00 - Wrap up and pick next topic
 - 12:30 - Event conclusion
 
+### Firmware Fellowship Weather Policy
+
+If the Des Moines Public Schools are delayed or cancelled, we will switch to meeting virtually. 
+
 ### Let Us Know You're Joining Us
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
