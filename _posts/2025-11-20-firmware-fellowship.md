@@ -17,12 +17,10 @@ permalink: /firmware-fellowship
 
 **Place:** The Walnut - 1417 Walnut St, Des Moines, IA 50309
 
-**EXCEPTION** December 18th will be virtual meeting on Google Hangouts. Register or sign up for mailing list to get the link!
 
 Join us for Firmware Fellowship on the third Thursday of every month! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other.
 
-December's topic is Supporting Non-technical Users. We'll discuss how we can best communicate with the non-developers we work with, including managers, the support team, and not least, the end users of our devices. 
-
+January's topic is IoT Security. None of us can handle security alone, but all of us have our part to play. Come chat with us about problems you've seen, best practices you follow, and questions you have. 
 
 At Firmware Fellowship, we meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
 
