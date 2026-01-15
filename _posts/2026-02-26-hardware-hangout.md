@@ -34,7 +34,7 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** 2025 Prokect Share
+- **Technical Talk:** 2025 Project Share
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don't worry, we won't make anyone perform a show-and-tell!
 
@@ -87,3 +87,11 @@ Many thanks to our sponsors!
 <br /><br />
 ![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
 [Spark Embedded, LLC](https://sparkembedded.com/)
+
+## Parking 
+
+Off-street parking is available in the Maple Studios parking lots, shown below. Additional parking can be found at the city lot at 14th and Maple. Please do not park in the grass. 
+
+Use the door nearest the overhead doors to enter the building.
+
+![Parking Image](../assets/images/maple_studios_parking.png)
