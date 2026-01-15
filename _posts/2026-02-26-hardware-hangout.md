@@ -88,6 +88,10 @@ Many thanks to our sponsors!
 ![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
 [Spark Embedded, LLC](https://sparkembedded.com/)
 
+<br /><br />
+![3E Logo](assets/images/3e_logo.webp){:width="250px"}
+[3E Co](https://3e-co.com/)>
+
 
 
 ## Parking 
