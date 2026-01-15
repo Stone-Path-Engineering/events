@@ -90,7 +90,7 @@ Many thanks to our sponsors!
 
 <br /><br />
 ![3E Logo](assets/images/3e_logo.webp){:width="250px"}
-[3E Co](https://3e-co.com/)>
+[3E Co](https://3e-co.com/)
 
 
 
