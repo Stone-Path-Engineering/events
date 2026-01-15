@@ -19,9 +19,9 @@ permalink: /hh-february-2026
 
 Join us for the first Hardware Hangout of the 2026 season! This networking event brings together embedded developers, electronics engineers, hobbyists, and industry supporters for technical discussions and community building.
 
-The topic for the November Hardware Hangout is Idea to Prototype.  
+The topic for the November Hardware Hangout is Project Share.
 
-Once you've made it through prototyping, development, manufacturing, and selling your product, kick back and celebrate your achievement! But not for too long because you're not done! A whole new set of decisions to make and challenges to overcome await you. Warehousing and shipping, returns and customer support, bug fixes, updates and new features. It's almost another whole job! 
+Join us for a collaborative event where attendees can reflect on what they worked on throughout 2025. We'll celebrate wins, talk through challeneges, and share lessons learned across projects of all shapes and sizes. Whether you're proud of a breakthrough, learned something the hard way, or just want to hear what other's worked on this past year, this is a great opportunity to connect, learn, and grow our Iowans of Things community!
 
 Share your stories, tips, and questions with the group! 
 
@@ -34,7 +34,7 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** Idea to Prototype
+- **Technical Talk:** 2025 Prokect Share
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don't worry, we won't make anyone perform a show-and-tell!
 
