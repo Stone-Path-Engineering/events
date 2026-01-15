@@ -19,7 +19,7 @@ permalink: /hh-february-2026
 
 Join us for the first Hardware Hangout of the 2026 season! This networking event brings together embedded developers, electronics engineers, hobbyists, and industry supporters for technical discussions and community building.
 
-The topic for the November Hardware Hangout is Project Share.
+The topic for the February Hardware Hangout is Project Share.
 
 Join us for a collaborative event where attendees can reflect on what they worked on throughout 2025. We'll celebrate wins, talk through challeneges, and share lessons learned across projects of all shapes and sizes. Whether you're proud of a breakthrough, learned something the hard way, or just want to hear what other's worked on this past year, this is a great opportunity to connect, learn, and grow our Iowans of Things community!
 
@@ -87,6 +87,8 @@ Many thanks to our sponsors!
 <br /><br />
 ![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
 [Spark Embedded, LLC](https://sparkembedded.com/)
+
+
 
 ## Parking 
 
