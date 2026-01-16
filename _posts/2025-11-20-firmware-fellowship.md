@@ -2,7 +2,7 @@
 
 layout: post
 title: Firmware Fellowship - Third Thursdays
-date: 2025-11-19 00:30:00 -0600
+date: 2026-01-14 00:30:00 -0600
 categories: [event, firmware_fellowship, next]
 excerpt_separator: <!--more-->
 permalink: /firmware-fellowship
