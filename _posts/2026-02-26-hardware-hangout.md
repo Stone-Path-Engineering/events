@@ -76,21 +76,43 @@ region: "na1"
 
 Many thanks to our sponsors!
 
+<table>
+<tr>
+    <td>
+    ![3E Logo](assets/images/3e_logo.webp){:width="250px"}
+    [3E Co](https://3e-co.com/)
+    </td>
+    <td>
+    ![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
+    <br />
+    [DISTek Integration, Inc.](https://distek.com/)
+    </td>
+    <td>
+    ![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
+    [Spark Embedded, LLC](https://sparkembedded.com/)
+    </td>
+</tr>
+    <td>
+        ![Maple Studios Logo](/assets/images/maple_studios_logo.png){:width="250px"}
+        <br />
+        [Maple Studios](https://www.maplestudios.com/)
+    </td>
+    <td>
+        ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
+        [Stone Path Engineering, LLC](https://stonepathengineering.com/)
+    </td>
+    <td>
+        ![DojoFive Logo](/assets/images/dojo_five_logo.webp){:width="250px"}
+        [Dojo Five](https://dojofive.com/)
+    </td>
+</table>
 <br /><br />
-![Maple Studios Logo](/assets/images/maple_studios_logo.png){:width="250px"}
-[Maple Studios](https://www.maplestudios.com/)
 
 <br /><br />
-![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
-[DISTek Integration, Inc.](https://distek.com/)
+
 
 <br /><br />
-![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
-[Spark Embedded, LLC](https://sparkembedded.com/)
 
-<br /><br />
-![3E Logo](assets/images/3e_logo.webp){:width="250px"}
-[3E Co](https://3e-co.com/)
 
 
 
