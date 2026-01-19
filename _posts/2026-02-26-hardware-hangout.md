@@ -105,8 +105,9 @@ Many thanks to our sponsors!
         </a>
     </td>
     <td>
-        ![DojoFive Logo](/assets/images/dojo_five_logo.webp){:width="250px"}
-        [Dojo Five](https://dojofive.com/)
+        <a href="https://dojofive.com/" >
+            <img alt="Dojo Five Logo" src="assets/images/dojo_five_logo.webp" width="250px">
+        </a>
     </td>
 </table>
 <br /><br />
