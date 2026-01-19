@@ -100,8 +100,9 @@ Many thanks to our sponsors!
         </a>
     </td>
     <td>
-        ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
-        [Stone Path Engineering, LLC](https://stonepathengineering.com/)
+        <a href="https://stonepathengineering.com/" >
+            <img alt="Stone Path Engineering Logo" src="assets/images/logo_stonepath_horiz.png" width="250px">
+        </a>
     </td>
     <td>
         ![DojoFive Logo](/assets/images/dojo_five_logo.webp){:width="250px"}
