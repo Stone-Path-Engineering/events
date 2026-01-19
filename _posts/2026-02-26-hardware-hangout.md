@@ -79,8 +79,9 @@ Many thanks to our sponsors!
 <table>
 <tr>
     <td>
-    ![3E Logo](assets/images/3e_logo.webp){:width="250px"}
-    [3E Co](https://3e-co.com/)
+        <a href="https://3e-co.com/" >
+            <img alt="3E Logo" src="assets/images/3e_logo.webp" width="250px">
+        </a>
     </td>
     <td>
     ![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
