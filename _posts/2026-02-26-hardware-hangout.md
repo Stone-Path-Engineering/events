@@ -84,9 +84,9 @@ Many thanks to our sponsors!
         </a>
     </td>
     <td>
-    ![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
-    <br />
-    [DISTek Integration, Inc.](https://distek.com/)
+        <a href="https://distek.com/" >
+            <img alt="DISTek Logo" src="assets/images/DISTek_Logo.png" width="250px">
+        </a>
     </td>
     <td>
     ![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
