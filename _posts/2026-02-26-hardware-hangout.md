@@ -80,7 +80,7 @@ Many thanks to our sponsors!
 <tr>
     <td>
         <a href="https://3e-co.com/" >
-            <img alt="3E Logo" src="assets/images/3e_logo.webp" width="250px">
+            <img alt="3E Logo" src="assets/images/3Elogo_transparent.jpg" width="250px">
         </a>
     </td>
     <td>
