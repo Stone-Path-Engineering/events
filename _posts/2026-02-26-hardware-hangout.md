@@ -79,42 +79,39 @@ Many thanks to our sponsors!
 <table>
 <tr>
     <td>
-    ![3E Logo](assets/images/3e_logo.webp){:width="250px"}
-    [3E Co](https://3e-co.com/)
+        <a href="https://3e-co.com/" >
+            <img alt="3E Logo" src="assets/images/3E_logo_round.png" width="250px">
+        </a>
     </td>
     <td>
-    ![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
-    <br />
-    [DISTek Integration, Inc.](https://distek.com/)
+        <a href="https://distek.com/" >
+            <img alt="DISTek Logo" src="assets/images/DISTek_Logo.png" width="250px">
+        </a>
     </td>
     <td>
-    ![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
-    [Spark Embedded, LLC](https://sparkembedded.com/)
+        <a href="https://sparkembedded.com/" >
+            <img alt="Spark Embedded Logo" src="assets/images/spark_embedded_logo_transparent.png" width="250px">
+        </a>
     </td>
 </tr>
     <td>
-        ![Maple Studios Logo](/assets/images/maple_studios_logo.png){:width="250px"}
-        <br />
-        [Maple Studios](https://www.maplestudios.com/)
+        <a href="https://www.maplestudios.com/" >
+            <img alt="Maple Studios Logo" src="assets/images/maple_studios_logo.png" width="250px">
+        </a>
     </td>
     <td>
-        ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
-        [Stone Path Engineering, LLC](https://stonepathengineering.com/)
+        <a href="https://stonepathengineering.com/" >
+            <img alt="Stone Path Engineering Logo" src="assets/images/logo_stonepath_horiz.png" width="250px">
+        </a>
     </td>
     <td>
-        ![DojoFive Logo](/assets/images/dojo_five_logo.webp){:width="250px"}
-        [Dojo Five](https://dojofive.com/)
+        <a href="https://dojofive.com/" >
+            <img alt="Dojo Five Logo" src="assets/images/dojo_five_logo.png" width="250px">
+        </a>
     </td>
 </table>
-<br /><br />
 
 <br /><br />
-
-
-<br /><br />
-
-
-
 
 ## Parking 
 
