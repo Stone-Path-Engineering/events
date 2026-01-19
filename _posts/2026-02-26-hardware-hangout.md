@@ -110,15 +110,8 @@ Many thanks to our sponsors!
         </a>
     </td>
 </table>
-<br /><br />
 
 <br /><br />
-
-
-<br /><br />
-
-
-
 
 ## Parking 
 
