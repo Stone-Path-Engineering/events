@@ -106,7 +106,7 @@ Many thanks to our sponsors!
     </td>
     <td>
         <a href="https://dojofive.com/" >
-            <img alt="Dojo Five Logo" src="assets/images/dojo_five_logo.webp" width="250px">
+            <img alt="Dojo Five Logo" src="assets/images/dojo_five_logo.png" width="250px">
         </a>
     </td>
 </table>
