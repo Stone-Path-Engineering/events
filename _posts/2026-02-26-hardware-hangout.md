@@ -89,8 +89,9 @@ Many thanks to our sponsors!
         </a>
     </td>
     <td>
-    ![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
-    [Spark Embedded, LLC](https://sparkembedded.com/)
+        <a href="https://sparkembedded.com/" >
+            <img alt="Spark Embedded Logo" src="assets/images/spark_embedded_logo_transparent.png" width="250px">
+        </a>
     </td>
 </tr>
     <td>
