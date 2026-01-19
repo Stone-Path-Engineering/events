@@ -95,9 +95,9 @@ Many thanks to our sponsors!
     </td>
 </tr>
     <td>
-        ![Maple Studios Logo](/assets/images/maple_studios_logo.png){:width="250px"}
-        <br />
-        [Maple Studios](https://www.maplestudios.com/)
+        <a href="https://www.maplestudios.com/" >
+            <img alt="Maple Studios Logo" src="assets/images/maple_studios_logo.png" width="250px">
+        </a>
     </td>
     <td>
         ![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
