@@ -20,7 +20,7 @@ permalink: /firmware-fellowship
 
 Join us for Firmware Fellowship on the third Thursday of every month! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other.
 
-February's topic is [MQTT](https://mqtt.org/getting-started/). James will demonstrate how he has used this pub/sub communication protocol for his lakeside automation projects. Thanks, James! Come chat with us about problems you've seen, best practices you follow, and questions you have.
+March's topic is LoRa (Long Range) - a low-power, wide-area network (LPWAN) wireless technology designed for IoT. Come chat with us about problems you've seen, best practices you follow, and questions you have on March 19th!
 
 At Firmware Fellowship, we meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
 
