@@ -9,7 +9,7 @@ permalink: /hh-may-2026
 
 ---
 
-![Banner](assets/images/banner_hardware_hangout_2026_02.png)
+![Banner](assets/images/banner_hardware_hangout_2026_05.png)
 
 **Date:**  May 14th, 2026
 
@@ -95,8 +95,8 @@ Many thanks to our sponsors!
     </td>
 </tr>
     <td>
-        <a href="https://www.maplestudios.com/" >
-            <img alt="Maple Studios Logo" src="assets/images/maple_studios_logo.png" width="250px">
+        <a href="https://3e-co.com/" >
+            <img alt="3E Logo" src="assets/images/3E_logo_round.png" width="250px">
         </a>
     </td>
     <td>
