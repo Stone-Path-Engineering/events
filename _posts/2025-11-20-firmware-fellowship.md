@@ -18,11 +18,13 @@ permalink: /firmware-fellowship
 **Place:** The Walnut - 1417 Walnut St, Des Moines, IA 50309
 
 
-Join us for Firmware Fellowship on the third Thursday of every month! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other.
+Join us for Firmware Fellowship on the third Thursday of every month! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other. We meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
 
-March's topic is LoRa (Long Range) - a low-power, wide-area network (LPWAN) wireless technology designed for IoT. Come chat with us about problems you've seen, best practices you follow, and questions you have on March 19th!
+April's topic is Building Custom CircuitPython - CircuitPython is a great way to prototype with hardware. It provides a lot out of the box for an astounding number of existing development platforms, has an interactive interface to facilitate rapid development cycles, and primarily uses Python instead of C to hide a lot of the distracting low-level details. Normally, you can get started in less than five minutes downloading prebuilt firmware from the [CircuitPython website](https://circuitpython.org/). If you have custom board or need some extra space for data storage, you may have to take a few extra steps to build it yourself. 
 
-At Firmware Fellowship, we meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
+Bailey will talk about what building CircuitPython looks like for an ESP32-S3 kit and show that even if you need to put in the extra effort for a custom build, it's still worth considering CircuitPython for your next prototyping project! 
+
+Come chat with us about problems you've seen, best practices you follow, and questions you have on April 16th!
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
