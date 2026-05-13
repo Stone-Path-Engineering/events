@@ -33,7 +33,7 @@ Registration below.
 <!--more-->  
 <!--the above "comment" tells the main page where to put the break-->
 
-### Who Should Come?
+## Who Should Come?
 
 - Embedded software and firmware developers who want to improve their skills or share expertise
 - Software developers looking to get into embedded or share expertise
