@@ -20,11 +20,9 @@ permalink: /firmware-fellowship
 
 Join us for Firmware Fellowship on the third Thursday of every month! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other. We meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
 
-April's topic is Building Custom CircuitPython - CircuitPython is a great way to prototype with hardware. It provides a lot out of the box for an astounding number of existing development platforms, has an interactive interface to facilitate rapid development cycles, and primarily uses Python instead of C to hide a lot of the distracting low-level details. Normally, you can get started in less than five minutes downloading prebuilt firmware from the [CircuitPython website](https://circuitpython.org/). If you have custom board or need some extra space for data storage, you may have to take a few extra steps to build it yourself. 
+The 1970s called! May's discussion will be an overview of machine code and low level programming, demonstrated by the [2022 Hackaday SuperCon Badge](https://github.com/Hack-a-Day/2022-Supercon6-Badge-Tools), a 4bit computer emulator that makes the memory and commands clearly visible to the user. And just like the '70s, we'll have the printed manual on hand to help us learn how to use it! 
 
-Bailey will talk about what building CircuitPython looks like for an ESP32-S3 kit and show that even if you need to put in the extra effort for a custom build, it's still worth considering CircuitPython for your next prototyping project! 
-
-Come chat with us about problems you've seen, best practices you follow, and questions you have on April 16th!
+Come nerd out with us on May 21st!
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
