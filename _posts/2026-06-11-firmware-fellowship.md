@@ -64,8 +64,8 @@ If the Des Moines Public Schools are delayed or cancelled due to weather, we wil
 
 Many thanks to our Iowans of Things Presenting Sponsors!
 
-![Spark Logo](/assets/images/spark_embedded_logo_transparent.png){:width="250px"}
-[Spark Embedded, LLC](https://sparkembedded.com/)
+![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
+[Stone Path Engineering, LLC](https://stonepathengineering.com/)
 
 <br /><br />
 ![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
