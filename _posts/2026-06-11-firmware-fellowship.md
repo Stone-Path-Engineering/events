@@ -11,18 +11,17 @@ permalink: /firmware-fellowship
 
 ![Banner](/assets/images/firmware_fellowship_banner.png)
 
-**Date:**  Monthly on Third Thursdays
+**Date:**  June 11th, 2026
 
-**Time:**  11:00 AM - 12:30 PM
+**Time:**  7:00 PM - 8:00 PM
 
-**Place:** The Walnut - 1417 Walnut St, Des Moines, IA 50309
+**Place:** Area515, Des Moines Maker Space - 108 Jefferson Avenue, Des Moines, IA 50314
 
 
-Join us for Firmware Fellowship on the third Thursday of every month! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other. We meet in a casual lunch setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
+Join us for Firmware Fellowship for our summer series! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other. We meet in a casual setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
+ 
 
-The 1970s called! May's discussion will be an overview of machine code and low level programming, demonstrated by the [2022 Hackaday SuperCon Badge](https://github.com/Hack-a-Day/2022-Supercon6-Badge-Tools), a 4bit computer emulator that makes the memory and commands clearly visible to the user. And just like the '70s, we'll have the printed manual on hand to help us learn how to use it! 
-
-Come nerd out with us on May 21st!
+Come nerd out with us on June 11th!
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
@@ -39,14 +38,14 @@ Registration below.
 
 ### Event Agenda
 
-- 11:00 - Arrive and Order
-- 11:15 - Technical presentation and/or discussion
-- 12:00 - Wrap up and pick next topic
-- 12:30 - Event conclusion
+- 6:45 - Doors Open
+- 7:00 - Technical presentation and/or discussion
+- 7:45 - Wrap up and pick next month's topic
+- 8:00 - Event conclusion
 
 ### Firmware Fellowship Weather Policy
 
-If the Des Moines Public Schools are delayed or cancelled, we will switch to meeting virtually. 
+If the Des Moines Public Schools are delayed or cancelled due to weather, we will switch to meeting virtually. 
 
 ### Let Us Know You're Joining Us
 
