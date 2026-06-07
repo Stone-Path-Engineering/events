@@ -18,10 +18,9 @@ permalink: /firmware-fellowship
 **Place:** Area515, Des Moines Maker Space - 108 Jefferson Avenue, Des Moines, IA 50314
 
 
-Join us for Firmware Fellowship for our summer series! This technical discussion focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other. We meet in a casual setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
+Join us for Firmware Fellowship for our summer series! This technical discussion series focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other. We meet in a casual setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
  
-
-Come nerd out with us on June 11th!
+Come nerd out with us on June 11th! We'll be taking a tour of Area515 and doing a code review on a state machine. If you have a short puece of code you'd like reviewed, feel free to bring it along! Also bring your current projects, in any state of completion to share!
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
@@ -45,7 +44,7 @@ Registration below.
 
 ### Firmware Fellowship Weather Policy
 
-If the Des Moines Public Schools are delayed or cancelled due to weather, we will switch to meeting virtually. 
+If the Des Moines Public Schools are delayed or cancelled due to weather, we will switch to meeting virtually. A meeting link will be sent out to those who have RSVP-ed.
 
 ### Let Us Know You're Joining Us
 
