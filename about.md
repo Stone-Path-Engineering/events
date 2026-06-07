@@ -29,21 +29,21 @@ border-radius: 8px; will-change: transform;">
 
 ## Hosts
 
-### William Griffin
-
-![William](/assets/images/WilliamHeadshots-2.jpg){:height="200px"}
-
-William has a Professional Science Master’s degree in Applied Physics from the University of Northern Iowa. Over a nearly two-decade career in engineering services, he has held a variety of roles including test engineer, model-based system design (MBSD) engineer, and leader of multiple teams and programs. He is now the Co-Founder and COO of Spark Embedded, a consultancy focused on collaborative engineering.
-
-As a newcomer to Des Moines, he has felt very welcomed into the technical community here and saw an opportunity to give back while further enriching it by facilitating the formation of an inclusive organization focused on a shared interest in the embedded domain.
-
 ### Bailey Steinfadt
 
 ![Bailey](/assets/images/Bailey-10.jpg){:height="200px"}
 
-Bailey has a degree in Computer Engineering from Iowa State University. She has worked in a wide mix of roles in automation, electronics, and engineering over the last 14 years. Her career's theme has been to make other's jobs easier or more valuable.
+Bailey is the owner of Stone Path Engineering and has a degree in Computer Engineering from Iowa State University. She has worked in a wide mix of roles in automation, electronics, and engineering over the last 14 years. Her career's theme and overall mission has been to make other people's jobs easier, safer, and more personally fulfilling using technology and systems design.
 
-Attending Hackaday Supercon, she realized she was craving the energy and community that event brought and wanted to see that at home in Des Moines. She knew many people working in and around the industry, but there wasn't a group, place, or event for them to get together. Meeting William at the Maple Studios grand opening was the catalyst to start creating that community by launching the first Hardware Hangout.
+Attending Hackaday Supercon, Bailey realized she was craving the energy and community that event brought and wanted to have that at home in Des Moines. She knew many people working in and around the industry, but there wasn't an existing local group or event for them to get together. Becoming a member at Maple Studios was her catalyst to start creating that community by launching the first Hardware Hangout.
+
+### William Griffin
+
+![William](/assets/images/WilliamHeadshots-2.jpg){:height="200px"}
+
+William has a Professional Science Master’s degree in Applied Physics from the University of Northern Iowa. Over a nearly two-decade career in engineering services, he has held a variety of roles including test engineer, model-based system design (MBSD) engineer, and leader of multiple teams and programs. He is now the owner of Spark Embedded, a consultancy focused on collaborative engineering.
+
+As a newcomer to Des Moines, he has felt very welcomed into the technical community here and saw an opportunity to give back while further enriching it by facilitating the formation of an inclusive organization focused on a shared interest in the embedded domain.
 
 ## Sponsoring
 
@@ -68,12 +68,12 @@ Benefits:
 - Opportunity to share what you do at the event
 - A thank you in the recap email with a chosen "call to action" to all attendees
 
-[Reach out to the team](mailto:team@sparkembedded.com) with any questions or to sign up to sponsor the next event!
+[Reach out to the team](mailto:events@stonepathengineering.com) with any questions or to sign up to sponsor the next event!
 
 ### Presenting Sponsors
 
 This tier is for companies who sponsor every Hardware Hangout and organize the efforts that are needed when creating these awesome events! The presenting sponsors are not exclusive, but do require an ongoing commitment above and beyond supplying a single event.
 
-Current Presenting Sponsors: Spark Embedded & DISTek Integration, Inc.
+Current Presenting Sponsors: Stone Path Engineering, DISTek Integration, and 3E.
 
-[Reach out to the team](mailto:team@sparkembedded.com) to discuss becoming a presenting sponsor!
+[Reach out to the team](mailto:events@stonepathengineering.com) to discuss becoming a presenting sponsor!
