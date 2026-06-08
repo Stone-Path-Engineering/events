@@ -42,6 +42,12 @@ Registration below.
 - 7:45 - Wrap up and pick next month's topic
 - 8:00 - Event conclusion
 
+### Parking 
+
+Parking is available along the north and east sides of the building and along the street. Please do NOT park in the lots across the street! 
+
+![Parking Image](../assets/images/area515_parking.png)
+
 ### Firmware Fellowship Weather Policy
 
 If the Des Moines Public Schools are delayed or cancelled due to weather, we will switch to meeting virtually. A meeting link will be sent out to those who have RSVP-ed.
@@ -61,14 +67,8 @@ If the Des Moines Public Schools are delayed or cancelled due to weather, we wil
 
 ## Sponsors
 
-Many thanks to our Iowans of Things Presenting Sponsors!
+Many thanks to Area515 and our Iowans of Things Presenting Sponsors!
 
-![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
-[Stone Path Engineering, LLC](https://stonepathengineering.com/)
-
-<br /><br />
-![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
-[DISTek Integration, Inc.](https://distek.com/)
 
 <br /><br />
 ![Area515 Logo](/assets/images/Area_515_logo_DMMS_large.webp){:width="250px"}
