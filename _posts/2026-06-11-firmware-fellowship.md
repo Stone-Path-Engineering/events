@@ -67,14 +67,8 @@ If the Des Moines Public Schools are delayed or cancelled due to weather, we wil
 
 ## Sponsors
 
-Many thanks to our Iowans of Things Presenting Sponsors!
+Many thanks to Area515 and our Iowans of Things Presenting Sponsors!
 
-![SPE Logo](/assets/images/logo_stonepath_horiz.png){:width="250px"}
-[Stone Path Engineering, LLC](https://stonepathengineering.com/)
-
-<br /><br />
-![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
-[DISTek Integration, Inc.](https://distek.com/)
 
 <br /><br />
 ![Area515 Logo](/assets/images/Area_515_logo_DMMS_large.webp){:width="250px"}
