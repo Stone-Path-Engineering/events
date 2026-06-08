@@ -42,6 +42,12 @@ Registration below.
 - 7:45 - Wrap up and pick next month's topic
 - 8:00 - Event conclusion
 
+### Parking 
+
+Parking is available along the north and east sides of the building and along the street. Please do NOT park in the lots across the street! 
+
+![Parking Image](../assets/images/area515_parking.png)
+
 ### Firmware Fellowship Weather Policy
 
 If the Des Moines Public Schools are delayed or cancelled due to weather, we will switch to meeting virtually. A meeting link will be sent out to those who have RSVP-ed.
