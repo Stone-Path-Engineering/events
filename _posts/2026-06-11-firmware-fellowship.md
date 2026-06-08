@@ -9,7 +9,7 @@ permalink: /firmware-fellowship
 
 ---
 
-![Banner](/assets/images/firmware_fellowship_banner.png)
+![Banner](/assets/images/june_2026_firmware_fellowship_banner.png)
 
 **Date:**  June 11th, 2026
 
@@ -70,3 +70,7 @@ Many thanks to our Iowans of Things Presenting Sponsors!
 <br /><br />
 ![DISTek Logo](/assets/images/DISTek_Logo.png){:width="250px"}
 [DISTek Integration, Inc.](https://distek.com/)
+
+<br /><br />
+![Area515 Logo](/assets/images/Area_515_logo_DMMS_large.webp){:width="250px"}
+[Area515 - Des Moines Maker Space](https://desmoinesmaker.space/)
