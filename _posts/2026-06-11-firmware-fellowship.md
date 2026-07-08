@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: June Firmware Fellowship
+title: July Firmware Fellowship
 date: 2026-01-14 00:30:00 -0600
 categories: [event, firmware_fellowship, next]
 excerpt_separator: <!--more-->
@@ -11,7 +11,7 @@ permalink: /firmware-fellowship
 
 ![Banner](/assets/images/june_2026_firmware_fellowship_banner.png)
 
-**Date:**  June 11th, 2026
+**Date:**  July 9th, 2026
 
 **Time:**  7:00 PM - 8:00 PM
 
@@ -20,7 +20,7 @@ permalink: /firmware-fellowship
 
 Join us for Firmware Fellowship for our summer series! This technical discussion series focuses on embedded firmware development best practices and provides a forum for developers to share expertise and learn from each other. We meet in a casual setting to share what we know and to learn from you! Don’t be afraid to join us, there won’t be any pop quizzes!
  
-Come nerd out with us on June 11th! We'll be taking a tour of Area515 and doing a code review on a state machine. If you have a short puece of code you'd like reviewed, feel free to bring it along! Also bring your current projects, in any state of completion to share!
+Come nerd out with us on July 9th! We'll be taking a tour of Area515 and doing an open-source project review one of our members is working on. Please bring your current projects, in any state of completion to share!
 
 ![Icon](/assets/images/icon_firmware.png){:height="250px" width="250px"}
 
