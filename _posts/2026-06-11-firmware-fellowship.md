@@ -3,13 +3,12 @@
 layout: post
 title: July Firmware Fellowship
 date: 2026-01-14 00:30:00 -0600
-categories: [event, firmware_fellowship, next]
+categories: [event, firmware_fellowship, past]
 excerpt_separator: <!--more-->
-permalink: /firmware-fellowship
-
+permalink: /ff-july-2026
 ---
 
-![Banner](/assets/images/june_2026_firmware_fellowship_banner.png)
+![Banner](/assets/images/banner_firmware_fellowship_2026_06.png)
 
 **Date:**  July 9th, 2026
 
