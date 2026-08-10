@@ -19,7 +19,7 @@ permalink: /hh-sept-2026
 
 Join us for a special Hardware Hangout focused on hiring in the engineering and embedded systems industry! We’ll bring together engineering professionals, hiring teams, and students for an open conversation about what it’s really like to hire—and get hired—in the industry.
 
-Come ready to share your hiring tips, interview stories, lessons learned, and experiences from both sides of the table. We’ll talk about what companies look for, what makes candidates stand out, common hiring challenges, and how students and professionals can better navigate the engineering job market.
+Come ready to share your hiring tips, interview stories, lessons learned, and experiences from both sides of the table including how things can "go wrong" and still be just fine! We’ll talk about what companies look for, what makes candidates stand out, common hiring challenges, and how students and professionals can better navigate the engineering job market.
 
 ISU engineering and other students are welcome and encouraged to attend! 
 
