@@ -9,7 +9,7 @@ permalink: /hh-sept-2026
 
 ---
 
-![Banner](assets/images/banner_hardware_hangout_2026_05.png)
+![Banner](assets/images/sept_2026_iowans_of_things_banner.png)
 
 **Date:**  September 24th, 2026
 
@@ -78,7 +78,7 @@ Many thanks to our sponsors!
 <tr>
     <td>
         <a href="https://digitalag.iastate.edu/" >
-            <img alt="Ag Innovation Lab Logo" src="assets/images/Twisted Vine Logo.png" width="250px">
+            <img alt="Ag Innovation Lab Logo" src="assets/images/ag_innovation_lab_logo.jpg" width="250px">
         </a>
     </td>
     <td>
@@ -97,6 +97,16 @@ Many thanks to our sponsors!
             <img alt="Stone Path Engineering Logo" src="assets/images/logo_stonepath_horiz.png" width="250px">
         </a>
     </td>
+    <td>
+        <a href="https://www.ieee.org/" >
+            <img alt="IEEE Logo" src="assets/images/ieee_mb_blue.png" width="250px">
+        </a>
+    </td>
+    <td>
+        <a href="https://3e-co.com/" >
+            <img alt="3E Logo" src="assets/images/3E_logo_round.png" width="250px">
+        </a>
+    </td>
 </table>
 
 <br /><br />
@@ -105,4 +115,4 @@ Many thanks to our sponsors!
 
 Please refer to the parking map below to see where to park for the event.
 
-![Parking Image](../assets/images/Twisted_Vine_Parking.png)
+![Parking Image](assets/images/AgLab_Parking.png)
