@@ -15,7 +15,7 @@ permalink: /hh-sept-2026
 
 **Time:**  4:30 PM - 6:30 PM
 
-**Place:** Alliant Energy Ag Innovation Lab, 3800 University Blvd, Ames, IA
+**Place:** Alliant Energy Digital Ag Innovation Lab, 3800 University Blvd, Ames, IA
 
 Join us for a special Hardware Hangout focused on hiring in the engineering and embedded systems industry! We’ll bring together engineering professionals, hiring teams, and students for an open conversation about what it’s really like to hire—and get hired—in the industry.
 
