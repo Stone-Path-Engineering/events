@@ -9,7 +9,7 @@ permalink: /ff-september-2026
 
 ---
 
-![Banner](/assets/images/banner_firmware_fellowship_2026_08.png)
+![Banner](/assets/images/banner_firmware_fellowship_2026_09.png)
 
 **Date:**  September 10th, 2026
 
