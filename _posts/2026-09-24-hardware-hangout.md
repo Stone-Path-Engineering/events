@@ -5,7 +5,7 @@ title: Hardware Hangout - September 2026
 date: 2026-08-03 00:30:00 -0600
 categories: [event, hardware_hangout, next]
 excerpt_separator: <!--more-->
-permalink: /hh-sept-2026
+permalink: /hh-september-2026
 
 ---
 
