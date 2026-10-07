@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Firmware Fellowship - September 2026
+title: Firmware Fellowship - October 2026
 date: 2026-01-14 00:30:00 -0600
 categories: [event, firmware_fellowship, next]
 excerpt_separator: <!--more-->
