@@ -17,10 +17,9 @@ permalink: /hh-november-2026
 
 **Place:** Maple Studios, 1207 Maple Street, West Des Moines, IA
 
-Join us for the final Hardware Hangout of the 2026 season! This networking event brings together embedded developers, electronics engineers, hobbyists, and industry supporters for technical discussions and community building.
+Join us for the final Hardware Hangout of the 2026 season! This networking event brings together embedded developers, electronics engineers, hobbyists, and industry supporters for technical discussions and community building. The topic for November is embedded in motion. How embedded systems are being used in, on, and around vehicles of all kinds. From cars and trucks to tractors, construction equipment, and everything in between, embedded systems are powering the vehicles we rely on every day.
 
-
-Share your stories, tips, and questions with the group! 
+Share your stories, tips, and questions with the group! Have an idea for what Iowans of Things could do next year? We’d love to hear it! We’re always looking for new ways to connect, learn, and strengthen Iowa’s embedded technology community.
 
 ![Logo](/assets/images/iowans_of_things.png){:width="250px"}
 
@@ -31,7 +30,7 @@ Registration below.
 
 ### Event Highlights
 
-- **Technical Talk:** 2025 Project Share
+- **Technical Talk:** Embedded in Motion: Share your projects and experiences using embedded systems in, on, and around vehicles of all kinds!
 - **Networking:** Mingle with like-minded individuals, share experiences, and forge valuable connections
 - **Project Share:** Bring your latest projects or ideas to spur conversations, or simply be inspired by others. Don't worry, we won't make anyone perform a show-and-tell!
 
@@ -62,7 +61,7 @@ RSVP in the link below!
 <script>
 hbspt.forms.create({
 portalId: "48052701",
-formId: "77b06431-bb8c-4fcf-a129-2751cae733f0",
+formId: "1f6d3936-df7c-4b24-8aad-16255174f331",
 region: "na1"
 });
 </script>
